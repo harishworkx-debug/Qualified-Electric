@@ -3,6 +3,8 @@ import Layout from '@/components/Layout';
 import HomePage from '@/pages/HomePage';
 import ServicePage from '@/pages/ServicePage';
 import LocationPage from '@/pages/LocationPage';
+import AboutPage from '@/pages/AboutPage';
+import ContactPage from '@/pages/ContactPage';
 import { services, serviceAreas } from '@/data/site-data';
 
 export default function App() {
@@ -10,6 +12,8 @@ export default function App() {
     <Routes>
       <Route element={<Layout />}>
         <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/contact" element={<ContactPage />} />
         {services.map((service) => (
           <Route key={service.slug} path={`/${service.slug}`} element={<ServicePage slug={service.slug} />} />
         ))}

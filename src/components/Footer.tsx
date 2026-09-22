@@ -93,9 +93,14 @@ export default function Footer() {
           <p className="text-xs text-ink-500">
             &copy; {new Date().getFullYear()} {BUSINESS_NAME}. All rights reserved.
           </p>
-          <p className="text-xs text-ink-500">
-            Licensed & Insured Electrician Serving Denver, CO
-          </p>
+          <div className="flex gap-4">
+            <a href="/sitemap.xml" className="text-xs text-ink-500 hover:text-electric-400 transition-colors" target="_blank" rel="noopener noreferrer">
+              Sitemap
+            </a>
+            <p className="text-xs text-ink-500">
+              Licensed & Insured Electrician Serving Denver, CO
+            </p>
+          </div>
         </div>
       </div>
     </footer>

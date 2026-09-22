@@ -22,12 +22,15 @@ export default function Header() {
     setMobileSubmenu(null);
   }, [location.pathname]);
 
-  const simpleNavLinks = [
+  const leftNavLinks = [
     { label: 'Home', to: '/' },
-    { label: 'About', to: '/#about' },
+  ];
+
+  const rightNavLinks = [
+    { label: 'About', to: '/about' },
     { label: 'Reviews', to: '/#testimonials' },
     { label: 'FAQs', to: '/#faqs' },
-    { label: 'Contact', to: '/#contact' },
+    { label: 'Contact', to: '/contact' },
   ];
 
   return (
@@ -53,7 +56,7 @@ export default function Header() {
             </Link>
 
             <nav className="hidden lg:flex items-center gap-7">
-              {simpleNavLinks.map((link) => (
+              {leftNavLinks.map((link) => (
                 <Link
                   key={link.label}
                   to={link.to}
@@ -131,6 +134,17 @@ export default function Header() {
                   </div>
                 </div>
               </div>
+
+              {rightNavLinks.map((link) => (
+                <Link
+                  key={link.label}
+                  to={link.to}
+                  className="text-sm font-semibold text-ink-200 hover:text-electric-400 transition-colors duration-200 relative group"
+                >
+                  {link.label}
+                  <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-electric-400 group-hover:w-full transition-all duration-300" />
+                </Link>
+              ))}
             </nav>
 
             <div className="hidden lg:flex items-center gap-3">
@@ -162,7 +176,7 @@ export default function Header() {
         <div className="absolute inset-0 bg-ink-950/95 backdrop-blur-md" onClick={() => setMenuOpen(false)} />
         <div className={`absolute top-16 left-0 right-0 bg-ink-900 transition-transform duration-300 max-h-[calc(100vh-4rem)] overflow-y-auto ${menuOpen ? 'translate-y-0' : '-translate-y-4'}`}>
           <nav className="container-pad py-6 flex flex-col gap-1">
-            {simpleNavLinks.map((link) => (
+            {leftNavLinks.map((link) => (
               <Link
                 key={link.label}
                 to={link.to}
@@ -215,6 +229,16 @@ export default function Header() {
                 ))}
               </div>
             )}
+
+            {rightNavLinks.map((link) => (
+              <Link
+                key={link.label}
+                to={link.to}
+                className="py-3 px-4 rounded-xl text-ink-100 font-semibold hover:bg-ink-800 hover:text-electric-400 transition-colors"
+              >
+                {link.label}
+              </Link>
+            ))}
 
             <a
               href={`tel:${PHONE_TEL}`}
