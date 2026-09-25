@@ -7,7 +7,7 @@ export default function ContactPage() {
     <>
       <SEO 
         title="Contact Us | Qualified Electric" 
-        description="Get in touch with Qualified Electric for all your residential electrical needs in Denver, CO. Call us at (720) 840-4198 or fill out our contact form." 
+        description="Get in touch with Qualified Electric for all your residential electrical needs in Denver, CO. Call us at (720) 794-0714 or fill out our contact form." 
       />
       
       <div className="pt-24 lg:pt-32 pb-12 lg:pb-16 bg-ink-950">

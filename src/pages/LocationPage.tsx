@@ -7,7 +7,7 @@ import FAQAccordion from '@/components/FAQAccordion';
 
 const areaFaqs = (city: string) => [
   { q: `What electrical services do you offer in ${city}?`, a: `Qualified Electric offers complete residential electrical services in ${city}, including electrical repair, panel upgrades, wiring, lighting installation, outlet and switch repair, EV charger installation, inspections, surge protection, and more.` },
-  { q: `How quickly can you come to my ${city} home?`, a: `We offer same-day and next-day appointments throughout ${city} and the Denver metro area. Call us at (720) 840-4198 to check our availability.` },
+  { q: `How quickly can you come to my ${city} home?`, a: `We offer same-day and next-day appointments throughout ${city} and the Denver metro area. Call us at (720) 794-0714 to check our availability.` },
   { q: 'Are your electricians licensed and insured?', a: 'Yes. Our electricians are fully licensed to work in Colorado and carry comprehensive insurance for your protection.' },
   { q: `Do you provide free estimates in ${city}?`, a: 'Yes, we provide upfront estimates for electrical projects. You will know the cost before any work begins.' },
 ];

@@ -1,6 +1,6 @@
 export const PHONE = '+1 720-840-4198';
-export const PHONE_DISPLAY = '(720) 840-4198';
-export const PHONE_TEL = '+17208404198';
+export const PHONE_DISPLAY = '(720) 794-0714';
+export const PHONE_TEL = '+17207940714';
 export const BUSINESS_NAME = 'Qualified Electric';
 export const MAIN_LOCATION = 'Denver, CO';
 export const MAPS_URL = 'https://maps.app.goo.gl/yfQm2CX9wSfrVZSg8';
@@ -28,7 +28,7 @@ export const services: ServicePage[] = [
     h1: 'Residential Electrician in Denver, CO',
     shortTitle: 'Residential Electrician',
     description: 'Full-service residential electrician serving Denver, CO — wiring, panels, lighting, outlets, inspections and more.',
-    metaDescription: 'Qualified Electric provides expert residential electrician services in Denver, CO. From wiring to panel upgrades, lighting to inspections — call (720) 840-4198.',
+    metaDescription: 'Qualified Electric provides expert residential electrician services in Denver, CO. From wiring to panel upgrades, lighting to inspections — call (720) 794-0714.',
     icon: 'Home',
     heroImage: 'https://images.pexels.com/photos/4981793/pexels-photo-4981793.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Residential electrician installing wiring in a Denver home',
@@ -51,7 +51,7 @@ export const services: ServicePage[] = [
       'Professional installation extends the lifespan of your electrical system and devices.',
     ],
     faqs: [
-      { q: 'Do you offer same-day residential electrical service in Denver?', a: 'We strive to accommodate same-day and next-day appointments for residential electrical needs throughout Denver. Call us at (720) 840-4198 to check availability.' },
+      { q: 'Do you offer same-day residential electrical service in Denver?', a: 'We strive to accommodate same-day and next-day appointments for residential electrical needs throughout Denver. Call us at (720) 794-0714 to check availability.' },
       { q: 'Are your electricians licensed and insured?', a: 'Yes. All of our electricians are fully licensed to work in Colorado and carry comprehensive insurance for your protection and peace of mind.' },
       { q: 'Do you provide free estimates for residential electrical work?', a: 'Yes, we provide upfront pricing and estimates for residential electrical projects. You\'ll know the cost before any work begins.' },
       { q: 'What areas of Denver do you serve?', a: 'We serve all of Denver and surrounding areas including Aurora, Lakewood, Littleton, Englewood, and more.' },
@@ -63,7 +63,7 @@ export const services: ServicePage[] = [
     h1: 'Electrical Repair in Denver, CO',
     shortTitle: 'Electrical Repair',
     description: 'Fast, reliable electrical repair services in Denver, CO. Flickering lights, dead outlets, tripping breakers — we fix it all.',
-    metaDescription: 'Need electrical repair in Denver, CO? Qualified Electric fixes outlets, breakers, wiring, and more. Fast, reliable service. Call (720) 840-4198 today.',
+    metaDescription: 'Need electrical repair in Denver, CO? Qualified Electric fixes outlets, breakers, wiring, and more. Fast, reliable service. Call (720) 794-0714 today.',
     icon: 'Wrench',
     heroImage: 'https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician repairing a circuit breaker panel in Denver',
@@ -89,7 +89,7 @@ export const services: ServicePage[] = [
       { q: 'How do I know if I need electrical repair?', a: 'Common signs include flickering lights, outlets that don\'t work, breakers that trip frequently, warm switch plates, burning smells, or sparking. If you notice any of these, call us right away.' },
       { q: 'Is electrical repair dangerous to do myself?', a: 'Yes. Electrical work should always be done by a licensed electrician. DIY electrical repair risks shock, fire, and code violations that can affect your home insurance.' },
       { q: 'How much does electrical repair cost in Denver?', a: 'Costs vary depending on the issue. We provide upfront pricing after diagnosis, so you\'ll know the exact cost before we begin any repair work.' },
-      { q: 'Do you offer emergency electrical repair?', a: 'Yes. For urgent safety issues, call us at (720) 840-4198 and we\'ll prioritize your repair.' },
+      { q: 'Do you offer emergency electrical repair?', a: 'Yes. For urgent safety issues, call us at (720) 794-0714 and we\'ll prioritize your repair.' },
     ],
   },
   {
@@ -98,7 +98,7 @@ export const services: ServicePage[] = [
     h1: 'Electrical Panel Upgrade in Denver, CO',
     shortTitle: 'Panel Upgrade',
     description: 'Upgrade your electrical panel in Denver, CO. Replace outdated 100-amp panels with safe, modern 200-amp service.',
-    metaDescription: 'Upgrade your electrical panel in Denver, CO with Qualified Electric. Replace outdated breakers, add capacity, improve safety. Call (720) 840-4198.',
+    metaDescription: 'Upgrade your electrical panel in Denver, CO with Qualified Electric. Replace outdated breakers, add capacity, improve safety. Call (720) 794-0714.',
     icon: 'Zap',
     heroImage: 'https://images.pexels.com/photos/27928762/pexels-photo-27928762.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician upgrading an electrical panel in Denver',
@@ -122,7 +122,7 @@ export const services: ServicePage[] = [
     ],
     faqs: [
       { q: 'How long does an electrical panel upgrade take?', a: 'Most panel upgrades are completed in a single day. We\'ll give you a precise timeline during your estimate.' },
-      { q: 'How much does a panel upgrade cost in Denver?', a: 'Panel upgrade costs vary based on amperage and whether your service entrance needs updating. We provide free, detailed estimates — call (720) 840-4198.' },
+      { q: 'How much does a panel upgrade cost in Denver?', a: 'Panel upgrade costs vary based on amperage and whether your service entrance needs updating. We provide free, detailed estimates — call (720) 794-0714.' },
       { q: 'Do I need a permit for a panel upgrade?', a: 'Yes, panel upgrades require permits and inspections in Denver. We handle all permitting and coordinate inspections for you.' },
       { q: 'How do I know if my panel needs upgrading?', a: 'Signs include frequent breaker trips, flickering lights when appliances run, a panel that feels warm, or a panel rated under 150 amps. If your home is over 25 years old, it likely needs an assessment.' },
     ],
@@ -133,7 +133,7 @@ export const services: ServicePage[] = [
     h1: 'Residential Wiring in Denver, CO',
     shortTitle: 'Residential Wiring',
     description: 'Professional residential wiring installation in Denver, CO — new construction, remodels, additions, and rewiring.',
-    metaDescription: 'Expert residential wiring services in Denver, CO. New construction, remodels, rewiring, and more. Code-compliant, safe, professional. Call (720) 840-4198.',
+    metaDescription: 'Expert residential wiring services in Denver, CO. New construction, remodels, rewiring, and more. Code-compliant, safe, professional. Call (720) 794-0714.',
     icon: 'Cable',
     heroImage: 'https://images.pexels.com/photos/3615735/pexels-photo-3615735.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Residential electrical wiring installation in a Denver home',
@@ -168,7 +168,7 @@ export const services: ServicePage[] = [
     h1: 'Outlet Repair in Denver, CO',
     shortTitle: 'Outlet Repair',
     description: 'Outlet repair and installation in Denver, CO. Fix dead, loose, or sparking outlets. Install GFCI and standard outlets.',
-    metaDescription: 'Outlet repair and installation in Denver, CO. Fix dead, loose, or sparking outlets. GFCI installation, tamper-resistant outlets. Call (720) 840-4198.',
+    metaDescription: 'Outlet repair and installation in Denver, CO. Fix dead, loose, or sparking outlets. GFCI installation, tamper-resistant outlets. Call (720) 794-0714.',
     icon: 'Plug',
     heroImage: 'https://images.pexels.com/photos/7937307/pexels-photo-7937307.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician repairing an electrical outlet in Denver',
@@ -203,7 +203,7 @@ export const services: ServicePage[] = [
     h1: 'Switch Repair in Denver, CO',
     shortTitle: 'Switch Repair',
     description: 'Switch repair and installation in Denver, CO. Fix unresponsive, warm, or sparking switches. Install dimmers and smart switches.',
-    metaDescription: 'Switch repair and installation in Denver, CO. Fix unresponsive or sparking switches. Install dimmers, smart switches, and 3-way switches. Call (720) 840-4198.',
+    metaDescription: 'Switch repair and installation in Denver, CO. Fix unresponsive or sparking switches. Install dimmers, smart switches, and 3-way switches. Call (720) 794-0714.',
     icon: 'ToggleLeft',
     heroImage: 'https://images.pexels.com/photos/8488059/pexels-photo-8488059.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician repairing a light switch in Denver',
@@ -238,7 +238,7 @@ export const services: ServicePage[] = [
     h1: 'Lighting Installation in Denver, CO',
     shortTitle: 'Lighting Installation',
     description: 'Professional lighting installation in Denver, CO — recessed lighting, fixtures, outdoor lighting, and more.',
-    metaDescription: 'Lighting installation in Denver, CO. Recessed lighting, chandeliers, outdoor lighting, under-cabinet lights. Professional, safe, beautiful. Call (720) 840-4198.',
+    metaDescription: 'Lighting installation in Denver, CO. Recessed lighting, chandeliers, outdoor lighting, under-cabinet lights. Professional, safe, beautiful. Call (720) 794-0714.',
     icon: 'Lightbulb',
     heroImage: 'https://images.pexels.com/photos/8135492/pexels-photo-8135492.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Beautiful lighting installation in a Denver home',
@@ -273,7 +273,7 @@ export const services: ServicePage[] = [
     h1: 'Ceiling Fan Installation in Denver, CO',
     shortTitle: 'Ceiling Fan Installation',
     description: 'Ceiling fan installation in Denver, CO. Safe mounting, proper wiring, and support for fans of all sizes.',
-    metaDescription: 'Ceiling fan installation in Denver, CO. Safe mounting, proper wiring, support box installation. Indoor and outdoor fans. Call (720) 840-4198.',
+    metaDescription: 'Ceiling fan installation in Denver, CO. Safe mounting, proper wiring, support box installation. Indoor and outdoor fans. Call (720) 794-0714.',
     icon: 'Fan',
     heroImage: 'https://images.pexels.com/photos/6835109/pexels-photo-6835109.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Ceiling fan installed in a Denver home',
@@ -308,7 +308,7 @@ export const services: ServicePage[] = [
     h1: 'EV Charger Installation in Denver, CO',
     shortTitle: 'EV Charger Installation',
     description: 'EV charger installation in Denver, CO. Level 2 home charging stations for all electric vehicle brands.',
-    metaDescription: 'EV charger installation in Denver, CO. Level 2 home charging stations for Tesla, Chevy, Ford, and all EVs. Fast, professional. Call (720) 840-4198.',
+    metaDescription: 'EV charger installation in Denver, CO. Level 2 home charging stations for Tesla, Chevy, Ford, and all EVs. Fast, professional. Call (720) 794-0714.',
     icon: 'BatteryCharging',
     heroImage: 'https://images.pexels.com/photos/5391509/pexels-photo-5391509.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'EV charger installation in Denver, CO',
@@ -331,7 +331,7 @@ export const services: ServicePage[] = [
       'An installed EV charger adds property value as EV adoption continues to grow in Colorado.',
     ],
     faqs: [
-      { q: 'How much does EV charger installation cost in Denver?', a: 'Costs vary based on your panel capacity, charger brand, and installation location. We provide free estimates — call (720) 840-4198.' },
+      { q: 'How much does EV charger installation cost in Denver?', a: 'Costs vary based on your panel capacity, charger brand, and installation location. We provide free estimates — call (720) 794-0714.' },
       { q: 'Do I need a panel upgrade for an EV charger?', a: 'It depends on your panel\'s capacity and current load. We assess your panel during the estimate and let you know if an upgrade is needed.' },
       { q: 'What charger should I buy?', a: 'We can recommend chargers based on your EV model, charging needs, and budget. We install all major brands including Tesla, ChargePoint, and JuiceBox.' },
       { q: 'How long does installation take?', a: 'Most EV charger installations take 2 to 4 hours. If a panel upgrade is needed, it may take longer.' },
@@ -343,7 +343,7 @@ export const services: ServicePage[] = [
     h1: 'Electrical Inspection in Denver, CO',
     shortTitle: 'Electrical Inspection',
     description: 'Comprehensive electrical inspection in Denver, CO. Safety inspections for home buyers, sellers, and homeowners.',
-    metaDescription: 'Electrical inspection in Denver, CO. Comprehensive safety inspections for home buyers, sellers, and homeowners. Detailed reports. Call (720) 840-4198.',
+    metaDescription: 'Electrical inspection in Denver, CO. Comprehensive safety inspections for home buyers, sellers, and homeowners. Detailed reports. Call (720) 794-0714.',
     icon: 'ClipboardCheck',
     heroImage: 'https://images.pexels.com/photos/32497160/pexels-photo-32497160.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician performing an electrical inspection in Denver',
@@ -378,7 +378,7 @@ export const services: ServicePage[] = [
     h1: 'Surge Protection in Denver, CO',
     shortTitle: 'Surge Protection',
     description: 'Whole-home surge protection in Denver, CO. Protect your electronics and appliances from power surges.',
-    metaDescription: 'Whole-home surge protection in Denver, CO. Protect electronics, appliances, and HVAC from power surges. Professional installation. Call (720) 840-4198.',
+    metaDescription: 'Whole-home surge protection in Denver, CO. Protect electronics, appliances, and HVAC from power surges. Professional installation. Call (720) 794-0714.',
     icon: 'ShieldCheck',
     heroImage: 'https://images.pexels.com/photos/28950842/pexels-photo-28950842.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Surge protection installation in Denver',
@@ -413,7 +413,7 @@ export const services: ServicePage[] = [
     h1: 'Generator Installation in Denver, CO',
     shortTitle: 'Generator Installation',
     description: 'Home generator installation in Denver, CO. Standby generators that keep your home powered during outages.',
-    metaDescription: 'Generator installation in Denver, CO. Standby home generators that automatically power your home during outages. Professional installation. Call (720) 840-4198.',
+    metaDescription: 'Generator installation in Denver, CO. Standby home generators that automatically power your home during outages. Professional installation. Call (720) 794-0714.',
     icon: 'Zap',
     heroImage: 'https://images.pexels.com/photos/18816918/pexels-photo-18816918.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Home generator installation in Denver, CO',
@@ -448,7 +448,7 @@ export const services: ServicePage[] = [
     h1: 'Electrical Troubleshooting in Denver, CO',
     shortTitle: 'Electrical Troubleshooting',
     description: 'Expert electrical troubleshooting in Denver, CO. Diagnose and fix flickering lights, tripping breakers, and mystery issues.',
-    metaDescription: 'Electrical troubleshooting in Denver, CO. Diagnose and fix flickering lights, tripping breakers, dead circuits, and more. Expert electricians. Call (720) 840-4198.',
+    metaDescription: 'Electrical troubleshooting in Denver, CO. Diagnose and fix flickering lights, tripping breakers, dead circuits, and more. Expert electricians. Call (720) 794-0714.',
     icon: 'Search',
     heroImage: 'https://images.pexels.com/photos/14319099/pexels-photo-14319099.jpeg?auto=compress&cs=tinysrgb&w=1600',
     heroAlt: 'Electrician troubleshooting an electrical issue in Denver',
@@ -473,7 +473,7 @@ export const services: ServicePage[] = [
     faqs: [
       { q: 'Why do my breakers keep tripping?', a: 'Breakers trip due to overloaded circuits, short circuits, or ground faults. We use diagnostic tools to identify the exact cause and fix it — whether that\'s redistributing loads, repairing wiring, or replacing a faulty breaker.' },
       { q: 'Why do my lights flicker when I turn on an appliance?', a: 'This usually indicates a voltage drop caused by a loose connection, an undersized circuit, or a failing neutral. We can diagnose and fix the underlying issue.' },
-      { q: 'How much does electrical troubleshooting cost?', a: 'Troubleshooting costs vary based on the complexity of the issue. We provide upfront pricing after our initial diagnosis. Call (720) 840-4198 for details.' },
+      { q: 'How much does electrical troubleshooting cost?', a: 'Troubleshooting costs vary based on the complexity of the issue. We provide upfront pricing after our initial diagnosis. Call (720) 794-0714 for details.' },
       { q: 'Can you find problems other electricians couldn\'t?', a: 'We specialize in difficult-to-diagnose electrical issues. Our electricians use advanced diagnostic equipment and have extensive experience tracking down problems others miss.' },
     ],
   },
@@ -488,18 +488,18 @@ export type ServiceArea = {
 };
 
 export const serviceAreas: ServiceArea[] = [
-  { slug: 'electrician-aurora-co', city: 'Aurora', state: 'CO', description: 'Electrician services in Aurora, CO — residential electrical repair, panel upgrades, lighting installation, EV charger installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Aurora, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-lakewood-co', city: 'Lakewood', state: 'CO', description: 'Electrician services in Lakewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Lakewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-littleton-co', city: 'Littleton', state: 'CO', description: 'Electrician services in Littleton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Littleton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-englewood-co', city: 'Englewood', state: 'CO', description: 'Electrician services in Englewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Englewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-castle-rock-co', city: 'Castle Rock', state: 'CO', description: 'Electrician services in Castle Rock, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Castle Rock, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-arvada-co', city: 'Arvada', state: 'CO', description: 'Electrician services in Arvada, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Arvada, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-westminster-co', city: 'Westminster', state: 'CO', description: 'Electrician services in Westminster, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Westminster, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-thornton-co', city: 'Thornton', state: 'CO', description: 'Electrician services in Thornton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Thornton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-centennial-co', city: 'Centennial', state: 'CO', description: 'Electrician services in Centennial, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Centennial, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-parker-co', city: 'Parker', state: 'CO', description: 'Electrician services in Parker, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Parker, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-highlands-ranch-co', city: 'Highlands Ranch', state: 'CO', description: 'Electrician services in Highlands Ranch, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Highlands Ranch, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
-  { slug: 'electrician-broomfield-co', city: 'Broomfield', state: 'CO', description: 'Electrician services in Broomfield, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Broomfield, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 840-4198.' },
+  { slug: 'electrician-aurora-co', city: 'Aurora', state: 'CO', description: 'Electrician services in Aurora, CO — residential electrical repair, panel upgrades, lighting installation, EV charger installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Aurora, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-lakewood-co', city: 'Lakewood', state: 'CO', description: 'Electrician services in Lakewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Lakewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-littleton-co', city: 'Littleton', state: 'CO', description: 'Electrician services in Littleton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Littleton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-englewood-co', city: 'Englewood', state: 'CO', description: 'Electrician services in Englewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Englewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-castle-rock-co', city: 'Castle Rock', state: 'CO', description: 'Electrician services in Castle Rock, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Castle Rock, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-arvada-co', city: 'Arvada', state: 'CO', description: 'Electrician services in Arvada, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Arvada, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-westminster-co', city: 'Westminster', state: 'CO', description: 'Electrician services in Westminster, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Westminster, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-thornton-co', city: 'Thornton', state: 'CO', description: 'Electrician services in Thornton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Thornton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-centennial-co', city: 'Centennial', state: 'CO', description: 'Electrician services in Centennial, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Centennial, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-parker-co', city: 'Parker', state: 'CO', description: 'Electrician services in Parker, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Parker, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-highlands-ranch-co', city: 'Highlands Ranch', state: 'CO', description: 'Electrician services in Highlands Ranch, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Highlands Ranch, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  { slug: 'electrician-broomfield-co', city: 'Broomfield', state: 'CO', description: 'Electrician services in Broomfield, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Broomfield, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
 ];
 
 export type Testimonial = {
@@ -527,12 +527,12 @@ export type FAQ = {
 
 export const homepageFaqs: FAQ[] = [
   { q: 'What electrical services do you offer in Denver, CO?', a: 'We offer a full range of residential electrical services in Denver, including electrical repair, panel upgrades, wiring, outlet and switch repair, lighting installation, ceiling fan installation, EV charger installation, electrical inspections, surge protection, generator installation, and troubleshooting.' },
-  { q: 'How quickly can you come out to my home?', a: 'We strive to offer same-day and next-day appointments for most electrical service calls in Denver. For urgent safety issues, call us at (720) 840-4198 and we\'ll prioritize your call.' },
+  { q: 'How quickly can you come out to my home?', a: 'We strive to offer same-day and next-day appointments for most electrical service calls in Denver. For urgent safety issues, call us at (720) 794-0714 and we\'ll prioritize your call.' },
   { q: 'Are your electricians licensed and insured?', a: 'Yes. All of our electricians are fully licensed to perform electrical work in Colorado and carry comprehensive insurance for your protection and peace of mind.' },
   { q: 'Do you provide free estimates?', a: 'Yes, we provide free, upfront estimates for electrical projects. You\'ll know the full cost before any work begins — no surprises, no hidden fees.' },
   { q: 'What areas do you serve around Denver?', a: 'We serve Denver and all surrounding areas including Aurora, Lakewood, Littleton, Englewood, Castle Rock, Arvada, Westminster, Thornton, Centennial, Parker, Highlands Ranch, and Broomfield.' },
-  { q: 'Do you handle emergency electrical repairs?', a: 'Yes. If you have an urgent electrical safety issue — sparking, burning smells, or a complete power loss — call us immediately at (720) 840-4198 and we\'ll respond as quickly as possible.' },
-  { q: 'How much does an electrical panel upgrade cost?', a: 'Panel upgrade costs vary based on your current panel, desired amperage, and whether your service entrance needs updating. We provide free estimates with transparent pricing — call (720) 840-4198 to schedule yours.' },
+  { q: 'Do you handle emergency electrical repairs?', a: 'Yes. If you have an urgent electrical safety issue — sparking, burning smells, or a complete power loss — call us immediately at (720) 794-0714 and we\'ll respond as quickly as possible.' },
+  { q: 'How much does an electrical panel upgrade cost?', a: 'Panel upgrade costs vary based on your current panel, desired amperage, and whether your service entrance needs updating. We provide free estimates with transparent pricing — call (720) 794-0714 to schedule yours.' },
   { q: 'Can you install an EV charger at my home?', a: 'Absolutely. We install Level 2 EV chargers for all electric vehicle brands, including Tesla, Chevy, Ford, and more. We\'ll assess your panel capacity and install a dedicated 240V circuit for safe, fast home charging.' },
 ];
 
@@ -553,7 +553,7 @@ export const whyChooseUs = [
   { icon: 'BadgeDollarSign', title: 'Upfront Pricing', description: 'Free estimates with transparent, upfront pricing. You know the full cost before any work begins.' },
   { icon: 'Award', title: 'Quality Workmanship', description: 'Every job — big or small — is done to the highest safety and quality standards, no shortcuts.' },
   { icon: 'MapPin', title: 'Local Denver Experts', description: 'We know Denver\'s building codes, neighborhoods, and homes inside and out. Local service you can trust.' },
-  { icon: 'PhoneCall', title: 'Always Available', description: 'Call us anytime at (720) 840-4198. We\'re here when you need us, ready to help.' },
+  { icon: 'PhoneCall', title: 'Always Available', description: 'Call us anytime at (720) 794-0714. We\'re here when you need us, ready to help.' },
 ];
 
 export const projectGallery = [

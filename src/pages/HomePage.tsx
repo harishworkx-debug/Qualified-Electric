@@ -37,7 +37,7 @@ export default function HomePage() {
     <>
       <SEO
         title="Electrician in Denver, CO | Qualified Electric"
-        description="Qualified Electric is your trusted residential electrician in Denver, CO. Electrical repair, panel upgrades, wiring, lighting, EV chargers, inspections, and more. Call (720) 840-4198."
+        description="Qualified Electric is your trusted residential electrician in Denver, CO. Electrical repair, panel upgrades, wiring, lighting, EV chargers, inspections, and more. Call (720) 794-0714."
         schema={[localBusinessSchema, faqSchema(homepageFaqs)]}
       />
 
