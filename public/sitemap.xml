@@ -1,115 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/</loc>
+    <loc>https://qualifiedelectricdenver.com/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/about/</loc>
+    <loc>https://qualifiedelectricdenver.com/about/</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/contact/</loc>
+    <loc>https://qualifiedelectricdenver.com/contact/</loc>
     <priority>0.9</priority>
   </url>
+
+  <!-- Educational Resources & Blog Guides (High Customer Search Intent) -->
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/residential-electrician-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/blog/</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://qualifiedelectricdenver.com/blog/electrician-cost-denver-co/</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://qualifiedelectricdenver.com/blog/when-to-upgrade-electrical-panel/</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://qualifiedelectricdenver.com/blog/ev-charger-installation-cost-colorado/</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://qualifiedelectricdenver.com/blog/signs-home-needs-rewiring/</loc>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://qualifiedelectricdenver.com/blog/how-to-choose-electrician-denver/</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Core Electrical Services -->
+  <url>
+    <loc>https://qualifiedelectricdenver.com/residential-electrician-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrical-repair-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrical-repair-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrical-panel-upgrade-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrical-panel-upgrade-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/residential-wiring-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/residential-wiring-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/outlet-repair-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/outlet-repair-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/switch-repair-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/switch-repair-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/lighting-installation-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/lighting-installation-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/ceiling-fan-installation-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/ceiling-fan-installation-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/ev-charger-installation-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/ev-charger-installation-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrical-inspection-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrical-inspection-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/surge-protection-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/surge-protection-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/generator-installation-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/generator-installation-denver-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrical-troubleshooting-denver-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrical-troubleshooting-denver-co/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Location Pages -->
+  <url>
+    <loc>https://qualifiedelectricdenver.com/electrician-aurora-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-aurora-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-lakewood-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-lakewood-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-littleton-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-littleton-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-englewood-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-englewood-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-castle-rock-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-castle-rock-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-arvada-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-arvada-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-westminster-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-westminster-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-thornton-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-thornton-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-centennial-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-centennial-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-parker-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-parker-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-highlands-ranch-co/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-highlands-ranch-co/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.qualifiedelectriccolorado.com/electrician-broomfield-co/</loc>
+    <loc>https://qualifiedelectricdenver.com/electrician-broomfield-co/</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

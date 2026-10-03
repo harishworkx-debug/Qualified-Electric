@@ -27,9 +27,9 @@ export default function Header() {
   ];
 
   const rightNavLinks = [
+    { label: 'Guides & Advice', to: '/blog' },
     { label: 'About', to: '/about' },
     { label: 'Reviews', to: '/#testimonials' },
-    { label: 'FAQs', to: '/#faqs' },
     { label: 'Contact', to: '/contact' },
   ];
 

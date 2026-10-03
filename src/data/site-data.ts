@@ -1,9 +1,9 @@
-export const PHONE = '+1 720-840-4198';
+export const PHONE = '(720) 794-0714';
 export const PHONE_DISPLAY = '(720) 794-0714';
 export const PHONE_TEL = '+17207940714';
 export const BUSINESS_NAME = 'Qualified Electric';
 export const MAIN_LOCATION = 'Denver, CO';
-export const MAPS_URL = 'https://maps.app.goo.gl/yfQm2CX9wSfrVZSg8';
+export const MAPS_URL = 'https://maps.app.goo.gl/Qz1jfL2PwGpk6dLe9';
 
 export type ServicePage = {
   slug: string;
@@ -24,42 +24,42 @@ export type ServicePage = {
 export const services: ServicePage[] = [
   {
     slug: 'residential-electrician-denver-co',
-    title: 'Residential Electrician in Denver, CO',
+    title: 'Residential Electrician in Denver, CO | Qualified Electric',
     h1: 'Residential Electrician in Denver, CO',
     shortTitle: 'Residential Electrician',
-    description: 'Full-service residential electrician serving Denver, CO — wiring, panels, lighting, outlets, inspections and more.',
-    metaDescription: 'Qualified Electric provides expert residential electrician services in Denver, CO. From wiring to panel upgrades, lighting to inspections — call (720) 794-0714.',
+    description: 'Specialized residential electrician serving Denver homeowners — dedicated home electrical repairs, outlet upgrades, home rewiring, ceiling fan installs, safety inspections, and residential panel upgrades.',
+    metaDescription: 'Specialized residential electrician in Denver, CO. Safe home wiring, panel upgrades, outlet repairs, fixture installation & electrical safety inspections for Denver homeowners. Call (720) 794-0714.',
     icon: 'Home',
     heroImage: 'https://images.pexels.com/photos/4981793/pexels-photo-4981793.jpeg?auto=compress&cs=tinysrgb&w=1600',
-    heroAlt: 'Residential electrician installing wiring in a Denver home',
+    heroAlt: 'Residential electrician inspecting home wiring in Denver',
     intro: [
-      'When you need a residential electrician in Denver, CO, Qualified Electric is the team homeowners trust for safe, code-compliant electrical work. From small repairs to whole-home rewiring, our electricians handle every aspect of your home\'s electrical system with precision and care.',
-      'We understand that your home is your biggest investment. That\'s why every residential electrical job we take on — whether it\'s installing a new outlet or upgrading your electrical panel — is done to the highest safety standards and meets all Denver building codes.',
+      'As a dedicated residential electrician in Denver, CO, Qualified Electric specializes exclusively in protecting your family, home, and property. Single-family homes, townhomes, and condos have unique electrical demands — from high-amperage kitchen appliances to home charging and whole-house surge defense.',
+      'Whether you are moving into a historic Denver home that needs knob-and-tube remediation, remodeling a kitchen, or fixing persistent GFCI outlet trips, our residential specialists deliver clean, code-compliant workmanship tailored to Denver County housing codes.',
     ],
     whatWeDo: [
-      { title: 'Whole-Home Wiring', description: 'Complete wiring installation for new construction, remodels, and home additions in Denver.' },
-      { title: 'Outlet & Switch Repair', description: 'Repair or replacement of damaged outlets, switches, and GFCI receptacles throughout your home.' },
-      { title: 'Panel Upgrades', description: 'Upgrade outdated electrical panels to handle modern power demands safely.' },
-      { title: 'Lighting Installation', description: 'Install recessed lighting, fixtures, ceiling fans, and outdoor lighting.' },
-      { title: 'Safety Inspections', description: 'Comprehensive electrical safety inspections for home buyers and homeowners.' },
-      { title: 'Troubleshooting & Repair', description: 'Diagnose and repair electrical problems — flickering lights, tripped breakers, dead outlets.' },
+      { title: 'Single-Family Home Rewiring', description: 'Complete safety rewiring, rough-in, and circuit expansion for Denver homes and remodels.' },
+      { title: 'Home Outlet & Switch Upgrades', description: 'Replace worn outlets with child-safe tamper-resistant and GFCI/AFCI protected receptacles.' },
+      { title: 'Residential Panel Safety Changes', description: 'Upgrade outdated residential panels to modern 200A service for today\'s home appliances.' },
+      { title: 'Custom Home Interior Lighting', description: 'Design and install recessed LEDs, pendant lighting, ceiling fans, and smart home switches.' },
+      { title: 'Pre-Purchase Home Electrical Audits', description: 'Comprehensive electrical safety inspections tailored for Denver home buyers and sellers.' },
+      { title: 'Home Circuit Troubleshooting', description: 'Trace mystery tripping breakers, flickering home lights, and dead living area circuits.' },
     ],
     whyItMatters: [
-      'A properly wired home protects your family from electrical fires and shock hazards.',
-      'Modern electrical panels prevent overloaded circuits and support today\'s appliances and devices.',
-      'Code-compliant work ensures your home passes inspection and maintains its value.',
-      'Professional installation extends the lifespan of your electrical system and devices.',
+      'A properly wired home protects your family from electrical fire hazards and shock risks.',
+      'Upgrading older home panels eliminates overloaded circuits caused by modern appliances.',
+      'Denver-compliant electrical work ensures your home passes safety inspections and retains value.',
+      'Dedicated residential expertise keeps your home\'s electrical system reliable for decades.',
     ],
     faqs: [
-      { q: 'Do you offer same-day residential electrical service in Denver?', a: 'We strive to accommodate same-day and next-day appointments for residential electrical needs throughout Denver. Call us at (720) 794-0714 to check availability.' },
-      { q: 'Are your electricians licensed and insured?', a: 'Yes. All of our electricians are fully licensed to work in Colorado and carry comprehensive insurance for your protection and peace of mind.' },
-      { q: 'Do you provide free estimates for residential electrical work?', a: 'Yes, we provide upfront pricing and estimates for residential electrical projects. You\'ll know the cost before any work begins.' },
-      { q: 'What areas of Denver do you serve?', a: 'We serve all of Denver and surrounding areas including Aurora, Lakewood, Littleton, Englewood, and more.' },
+      { q: 'How does a residential electrician differ from a commercial electrician?', a: 'Residential electricians specialize in single-family homes, townhomes, and condos. We focus on home safety, residential electrical codes (NEC), family lifestyle needs, and protecting your living space with minimal disruption.' },
+      { q: 'Do you offer same-day residential electrical service in Denver?', a: 'Yes, we reserve daily schedule slots for urgent residential electrical issues throughout Denver. Call us at (720) 794-0714 for fast dispatch.' },
+      { q: 'Are your residential electricians licensed and insured in Colorado?', a: 'Absolutely. All of our electricians are fully licensed master and journeyman electricians in Colorado, fully insured for residential work.' },
+      { q: 'Can you inspect the electrical system in a home I am buying in Denver?', a: 'Yes! We perform detailed pre-purchase home electrical inspections, examining panels, grounding, wiring type, and outlets to give home buyers total peace of mind.' },
     ],
   },
   {
     slug: 'electrical-repair-denver-co',
-    title: 'Electrical Repair in Denver, CO',
+    title: 'Electrical Repair in Denver, CO | Qualified Electric',
     h1: 'Electrical Repair in Denver, CO',
     shortTitle: 'Electrical Repair',
     description: 'Fast, reliable electrical repair services in Denver, CO. Flickering lights, dead outlets, tripping breakers — we fix it all.',
@@ -94,8 +94,8 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'electrical-panel-upgrade-denver-co',
-    title: 'Electrical Panel Upgrade in Denver, CO',
-    h1: 'Electrical Panel Upgrade in Denver, CO',
+    title: 'Electrical Panel Upgrade Denver, CO',
+    h1: 'Electrical Panel Upgrade Denver, CO',
     shortTitle: 'Panel Upgrade',
     description: 'Upgrade your electrical panel in Denver, CO. Replace outdated 100-amp panels with safe, modern 200-amp service.',
     metaDescription: 'Upgrade your electrical panel in Denver, CO with Qualified Electric. Replace outdated breakers, add capacity, improve safety. Call (720) 794-0714.',
@@ -129,8 +129,8 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'residential-wiring-denver-co',
-    title: 'Residential Wiring in Denver, CO',
-    h1: 'Residential Wiring in Denver, CO',
+    title: 'Home Electrical Wiring in Denver, CO',
+    h1: 'Home Electrical Wiring in Denver, CO',
     shortTitle: 'Residential Wiring',
     description: 'Professional residential wiring installation in Denver, CO — new construction, remodels, additions, and rewiring.',
     metaDescription: 'Expert residential wiring services in Denver, CO. New construction, remodels, rewiring, and more. Code-compliant, safe, professional. Call (720) 794-0714.',
@@ -164,7 +164,7 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'outlet-repair-denver-co',
-    title: 'Outlet Repair in Denver, CO',
+    title: 'Outlet Repair in Denver, CO | Qualified Electric',
     h1: 'Outlet Repair in Denver, CO',
     shortTitle: 'Outlet Repair',
     description: 'Outlet repair and installation in Denver, CO. Fix dead, loose, or sparking outlets. Install GFCI and standard outlets.',
@@ -304,8 +304,8 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'ev-charger-installation-denver-co',
-    title: 'EV Charger Installation in Denver, CO',
-    h1: 'EV Charger Installation in Denver, CO',
+    title: 'EV Charger Installation Denver, CO',
+    h1: 'EV Charger Installation Denver, CO',
     shortTitle: 'EV Charger Installation',
     description: 'EV charger installation in Denver, CO. Level 2 home charging stations for all electric vehicle brands.',
     metaDescription: 'EV charger installation in Denver, CO. Level 2 home charging stations for Tesla, Chevy, Ford, and all EVs. Fast, professional. Call (720) 794-0714.',
@@ -374,7 +374,7 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'surge-protection-denver-co',
-    title: 'Surge Protection in Denver, CO',
+    title: 'Surge Protection Denver, CO | Qualified Electric',
     h1: 'Surge Protection in Denver, CO',
     shortTitle: 'Surge Protection',
     description: 'Whole-home surge protection in Denver, CO. Protect your electronics and appliances from power surges.',
@@ -409,8 +409,8 @@ export const services: ServicePage[] = [
   },
   {
     slug: 'generator-installation-denver-co',
-    title: 'Generator Installation in Denver, CO',
-    h1: 'Generator Installation in Denver, CO',
+    title: 'Generator Installation Denver, CO',
+    h1: 'Generator Installation Denver, CO',
     shortTitle: 'Generator Installation',
     description: 'Home generator installation in Denver, CO. Standby generators that keep your home powered during outages.',
     metaDescription: 'Generator installation in Denver, CO. Standby home generators that automatically power your home during outages. Professional installation. Call (720) 794-0714.',
@@ -479,27 +479,539 @@ export const services: ServicePage[] = [
   },
 ];
 
+export type LocalProject = {
+  title: string;
+  neighborhood: string;
+  description: string;
+  serviceType: string;
+};
+
+export type CityService = {
+  title: string;
+  description: string;
+  linkSlug: string;
+};
+
+export type NearbyCity = {
+  name: string;
+  slug: string;
+};
+
 export type ServiceArea = {
   slug: string;
   city: string;
   state: string;
+  title: string;
+  h1: string;
   description: string;
   metaDescription: string;
+  tagline: string;
+  introParagraphs: string[];
+  neighborhoods: string[];
+  zipCodes: string[];
+  landmarks: string[];
+  localUtility: string;
+  buildingDept: string;
+  topServices: CityService[];
+  localProjects: LocalProject[];
+  faqs: { q: string; a: string }[];
+  review: Testimonial;
+  nearbyCities: NearbyCity[];
 };
 
 export const serviceAreas: ServiceArea[] = [
-  { slug: 'electrician-aurora-co', city: 'Aurora', state: 'CO', description: 'Electrician services in Aurora, CO — residential electrical repair, panel upgrades, lighting installation, EV charger installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Aurora, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-lakewood-co', city: 'Lakewood', state: 'CO', description: 'Electrician services in Lakewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Lakewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-littleton-co', city: 'Littleton', state: 'CO', description: 'Electrician services in Littleton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Littleton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-englewood-co', city: 'Englewood', state: 'CO', description: 'Electrician services in Englewood, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Englewood, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-castle-rock-co', city: 'Castle Rock', state: 'CO', description: 'Electrician services in Castle Rock, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Castle Rock, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-arvada-co', city: 'Arvada', state: 'CO', description: 'Electrician services in Arvada, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Arvada, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-westminster-co', city: 'Westminster', state: 'CO', description: 'Electrician services in Westminster, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Westminster, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-thornton-co', city: 'Thornton', state: 'CO', description: 'Electrician services in Thornton, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Thornton, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-centennial-co', city: 'Centennial', state: 'CO', description: 'Electrician services in Centennial, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Centennial, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-parker-co', city: 'Parker', state: 'CO', description: 'Electrician services in Parker, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Parker, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-highlands-ranch-co', city: 'Highlands Ranch', state: 'CO', description: 'Electrician services in Highlands Ranch, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Highlands Ranch, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
-  { slug: 'electrician-broomfield-co', city: 'Broomfield', state: 'CO', description: 'Electrician services in Broomfield, CO — residential electrical repair, panel upgrades, lighting installation, and more.', metaDescription: 'Qualified Electric provides professional electrician services in Broomfield, CO. Repairs, panel upgrades, lighting, EV chargers, and more. Call (720) 794-0714.' },
+  {
+    slug: 'electrician-aurora-co',
+    city: 'Aurora',
+    state: 'CO',
+    title: 'Licensed Electrician in Aurora, CO | Qualified Electric',
+    h1: 'Top-Rated Electricians in Aurora, CO',
+    description: 'Trusted residential electrician services in Aurora, CO — 200A panel upgrades, Level 2 EV charging stations, whole-home rewiring, and emergency repairs.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Aurora, CO. Panel upgrades, EV chargers, wiring, surge protection & fast repairs in Aurora. Call (720) 794-0714.',
+    tagline: 'Fast, reliable electrical services for Aurora\'s growing master-planned neighborhoods and established homes.',
+    introParagraphs: [
+      'Aurora\'s rapid growth and diverse housing stock — from established neighborhoods near Cherry Creek State Park to modern master-planned communities in Southshore and Tallyn\'s Reach — demand versatile electrical expertise. Qualified Electric provides code-compliant residential electrical solutions engineered for Aurora\'s specific power demands.',
+      'Whether your Aurora home requires a 200A panel upgrade to support high-efficiency heat pumps and EV charging, or emergency diagnostic repair for flickering lights, our licensed electricians arrive equipped with modern diagnostic tools and clear, upfront estimates.',
+    ],
+    neighborhoods: ['Southshore', 'Tallyn\'s Reach', 'Saddle Rock', 'Heather Gardens', 'Meadow Hills', 'Seven Hills', 'Murphy Creek'],
+    zipCodes: ['80013', '80014', '80015', '80016', '80017', '80018'],
+    landmarks: ['Cherry Creek State Park', 'Aurora Reservoir', 'Southlands Shopping Center', 'Buckley Space Force Base area'],
+    localUtility: 'Xcel Energy (Denver Metro East)',
+    buildingDept: 'City of Aurora Building Division',
+    topServices: [
+      { title: 'Panel Upgrades in Aurora', description: 'Upgrade undersized 100A main breaker panels to 200A service to handle modern household power loads safely.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: 'Level 2 EV Charger Install', description: 'Dedicated 240V circuit installations for Tesla, Chevy, Ford, and all electric vehicles in Aurora garages.', linkSlug: 'ev-charger-installation-denver-co' },
+      { title: 'Whole-Home Rewiring', description: 'Complete electrical rough-in, device replacement, and safety rewiring for Aurora home remodels.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Whole-House Surge Suppression', description: 'Protect high-end kitchen appliances and home electronics from severe eastern plains lightning surges.', linkSlug: 'surge-protection-denver-co' },
+    ],
+    localProjects: [
+      { title: '200A Panel Upgrade & EV Charger', neighborhood: 'Tallyn\'s Reach', description: 'Upgraded an undersized 100A panel to 200A main breaker service and installed a 50A dedicated Tesla Wall Connector.', serviceType: 'Panel Upgrade & EV Charger' },
+      { title: 'Whole-House Surge Protector & Circuit', neighborhood: 'Southshore', description: 'Installed main-panel surge protection and ran a 50A dedicated subterranean circuit for an outdoor hot tub.', serviceType: 'Surge & Outdoor Wiring' },
+      { title: 'Recessed LED Lighting Suite', neighborhood: 'Saddle Rock', description: 'Replaced outdated surface fixtures with 14 ultra-slim LED recessed lights and smart dimmers in open living area.', serviceType: 'Lighting Installation' },
+    ],
+    faqs: [
+      { q: 'Do panel upgrades in Aurora require City of Aurora electrical permits?', a: 'Yes. All electrical panel upgrades and service changes in Aurora require permits from the City of Aurora Building Division. Qualified Electric pulls all required permits and handles the city inspection.' },
+      { q: 'How quickly can an electrician respond to an urgent issue in Aurora?', a: 'We reserve daily schedule slots specifically for Aurora service calls and offer same-day or next-day appointments for urgent safety issues.' },
+      { q: 'Does Xcel Energy need to disconnect power during an Aurora panel upgrade?', a: 'Yes. We coordinate directly with Xcel Energy for meter disconnect and reconnect so your panel upgrade is completed safely and efficiently in one day.' },
+    ],
+    review: { name: 'James T.', location: 'Aurora, CO', rating: 5, text: 'We had a flickering light issue that two other electricians couldn\'t figure out. Qualified Electric found the problem in 20 minutes — a loose neutral wire in the panel. Fixed it the same day. Highly recommend.' },
+    nearbyCities: [
+      { name: 'Centennial', slug: 'electrician-centennial-co' },
+      { name: 'Parker', slug: 'electrician-parker-co' },
+      { name: 'Englewood', slug: 'electrician-englewood-co' },
+    ],
+  },
+  {
+    slug: 'electrician-lakewood-co',
+    city: 'Lakewood',
+    state: 'CO',
+    title: 'Trusted Electrician in Lakewood, CO | Qualified Electric',
+    h1: 'Local Electrician Services in Lakewood, CO',
+    description: 'Licensed electrician serving Lakewood, CO — mid-century home rewiring, aluminum wiring remediation, 200A panel upgrades, and recessed lighting.',
+    metaDescription: 'Qualified Electric offers expert electrician services in Lakewood, CO. Aluminum wiring repair, panel upgrades, lighting, and code compliance. Call (720) 794-0714.',
+    tagline: 'Specialized electrical repair, aluminum wiring remediation, and upgrades for Lakewood ranches and foothills homes.',
+    introParagraphs: [
+      'Lakewood\'s charming mid-century ranches around Belmar, Applewood, and Green Mountain often feature original 1960s-1970s electrical panels and aluminum branch wiring. Qualified Electric brings deep local experience in diagnosing and safely upgrading Lakewood residential electrical systems to current National Electrical Code (NEC) standards.',
+      'From installing safe AlumiConn/COPALUM aluminum wiring remediation to replacing outdated Zinsco or Federal Pacific panels, our certified electricians protect Lakewood homes while expanding power capacity for modern appliances and EV charging.',
+    ],
+    neighborhoods: ['Belmar', 'Applewood', 'Green Mountain', 'Solterra', 'Eiber', 'Kendallvue', 'Southern Gables'],
+    zipCodes: ['80215', '80226', '80227', '80228', '80232'],
+    landmarks: ['Belmar Downtown', 'Bear Creek Lake Park', 'Green Mountain Park', 'William F. Hayden Park'],
+    localUtility: 'Xcel Energy (West Metro Division)',
+    buildingDept: 'City of Lakewood Building Inspections',
+    topServices: [
+      { title: 'Aluminum Wiring Remediation', description: 'Safely remediate 1960s-70s aluminum branch wiring with code-approved connectors to eliminate fire hazards.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Lakewood Panel Upgrades', description: 'Replace outdated breaker boxes with modern 200A panels to prevent breaker trips and support modern power.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: 'Recessed Can Lighting', description: 'Transform mid-century Lakewood interiors with energy-efficient LED recessed lighting and dimmer controls.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Electrical Safety Inspection', description: 'Comprehensive pre-purchase and safety audits for Lakewood homebuyers and sellers.', linkSlug: 'electrical-inspection-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Aluminum Wiring Remediation', neighborhood: 'Applewood', description: 'Remediated branch wiring using code-compliant AlumiConn connectors and installed tamper-resistant outlets in a 1968 ranch.', serviceType: 'Wiring Remediation' },
+      { title: '200A Heavy Up & Garage Subpanel', neighborhood: 'Green Mountain', description: 'Replaced an obsolete panel with a 200A main service panel and added a 60A subpanel for a garage woodworking shop.', serviceType: 'Panel & Subpanel' },
+      { title: 'EV Charger & Landscape Lighting', neighborhood: 'Solterra', description: 'Installed Level 2 EV charger in garage and low-voltage LED architectural landscape lighting on stone terrace.', serviceType: 'EV & Lighting' },
+    ],
+    faqs: [
+      { q: 'Is aluminum wiring common in older Lakewood homes?', a: 'Yes. Many Lakewood homes built between 1965 and 1973 contain aluminum branch circuit wiring. We specialize in COPALUM and AlumiConn remediation to make aluminum wiring completely safe.' },
+      { q: 'Do you inspect panels for recalled brands in Lakewood?', a: 'Yes. We inspect for dangerous recalled panel brands like Federal Pacific Electric (FPE) and Zinsco, which are frequently found in Lakewood homes built prior to 1980.' },
+      { q: 'How long does a panel replacement take in Lakewood?', a: 'Most residential panel upgrades in Lakewood are completed in 6 to 8 hours, with power restored by the end of the day.' },
+    ],
+    review: { name: 'Patricia L.', location: 'Lakewood, CO', rating: 5, text: 'They installed recessed lighting throughout our living room and kitchen. The work was clean, the lights look amazing, and they even patched the small drywall cuts. True professionals.' },
+    nearbyCities: [
+      { name: 'Arvada', slug: 'electrician-arvada-co' },
+      { name: 'Englewood', slug: 'electrician-englewood-co' },
+      { name: 'Littleton', slug: 'electrician-littleton-co' },
+    ],
+  },
+  {
+    slug: 'electrician-littleton-co',
+    city: 'Littleton',
+    state: 'CO',
+    title: 'Licensed Electrician in Littleton, CO | Qualified Electric',
+    h1: 'Professional Electricians in Littleton, CO',
+    description: 'Expert residential electricians in Littleton, CO — historic home rewiring, standby generator installation, surge protection, and panel upgrades.',
+    metaDescription: 'Need a licensed electrician in Littleton, CO? Qualified Electric provides standby generators, panel upgrades, rewiring, and safety inspections. Call (720) 794-0714.',
+    tagline: 'Preserving historic Littleton homes and powering modern foothill residences with precision electrical work.',
+    introParagraphs: [
+      'Littleton blends historic downtown charm with sprawling suburban developments and foothill properties near Chatfield Reservoir. Qualified Electric brings tailored electrical solutions — from preserving historic fixtures in Downtown Littleton to installing heavy-duty standby generators in Ken Caryl Valley.',
+      'Weather conditions along the Littleton foothills can cause localized power outages and lightning surges. Our master electricians specialize in installing automatic standby generators, whole-home surge suppressors, and modern 200A service panels designed to keep your family safe and continuously powered.',
+    ],
+    neighborhoods: ['Downtown Littleton', 'Ken Caryl Valley', 'Roxborough', 'Columbine', 'TrailMark', 'Heritage Hills', 'Highland Ranch border'],
+    zipCodes: ['80120', '80123', '80127', '80128', '80130'],
+    landmarks: ['Historic Main Street Littleton', 'Hudson Gardens', 'Chatfield Reservoir', 'Ken Caryl Ranch'],
+    localUtility: 'Xcel Energy / CORE Electric Cooperative',
+    buildingDept: 'City of Littleton Building & Safety Division',
+    topServices: [
+      { title: 'Standby Generator Installation', description: 'Automatic standby generators with transfer switches to keep heat, lights, and appliances running during foothill outages.', linkSlug: 'generator-installation-denver-co' },
+      { title: 'Knob & Tube Rewiring', description: 'Safely replace legacy knob-and-tube wiring in historic Littleton homes with grounded Romex wiring.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Whole-Home Surge Protection', description: 'Panel-mounted surge protectors to shield HVAC systems and appliances from grid spikes.', linkSlug: 'surge-protection-denver-co' },
+      { title: 'Electrical Safety Audits', description: 'Thorough electrical safety audits for Littleton home buyers, sellers, and historic homeowners.', linkSlug: 'electrical-inspection-denver-co' },
+    ],
+    localProjects: [
+      { title: '22kW Standby Generator Setup', neighborhood: 'Ken Caryl Valley', description: 'Installed automatic standby generator with transfer switch to safeguard home during foothill storm outages.', serviceType: 'Standby Generator' },
+      { title: 'Knob & Tube Removal & Whole-Home Rewire', neighborhood: 'Downtown Littleton', description: 'Safely deactivated historic knob-and-tube wiring and rewired a 1920s craftsman home to modern code.', serviceType: 'Rewiring' },
+      { title: 'Whole-Home Surge Protection & Panel Tune-Up', neighborhood: 'Columbine', description: 'Installed main panel surge suppressor and tightened bus bar connections for comprehensive surge defense.', serviceType: 'Surge Protection' },
+    ],
+    faqs: [
+      { q: 'Can a standby generator power my entire Littleton home during an outage?', a: 'Yes! A properly sized 20kW to 24kW standby generator with an automatic transfer switch will seamlessly power your HVAC, refrigerator, lights, and outlets when utility power fails.' },
+      { q: 'How do I know if my older Littleton home has knob & tube wiring?', a: 'If your home was built before 1950, it may have knob-and-tube wiring in attic spaces or walls. We can perform a non-invasive inspection to verify and recommend safe upgrade options.' },
+      { q: 'Do you service homes in CORE Electric Cooperative areas around Littleton?', a: 'Yes. We work seamlessly with both Xcel Energy and CORE Electric Cooperative utility specifications across Arapahoe and Jefferson counties.' },
+    ],
+    review: { name: 'Jennifer K.', location: 'Littleton, CO', rating: 5, text: 'After a power surge fried our TV and microwave, we called Qualified Electric to install whole-home surge protection. Fast, knowledgeable, and reasonably priced. Wish we\'d done it sooner.' },
+    nearbyCities: [
+      { name: 'Highlands Ranch', slug: 'electrician-highlands-ranch-co' },
+      { name: 'Englewood', slug: 'electrician-englewood-co' },
+      { name: 'Centennial', slug: 'electrician-centennial-co' },
+    ],
+  },
+  {
+    slug: 'electrician-englewood-co',
+    city: 'Englewood',
+    state: 'CO',
+    title: 'Expert Electrician in Englewood, CO | Qualified Electric',
+    h1: 'Reliable Electricians Serving Englewood, CO',
+    description: 'Englewood electrician services — mid-century bungalow rewiring, kitchen remodel electrical, panel relocations, and EV charging.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Englewood, CO. Rewiring, panel upgrades, kitchen electrical, and EV chargers. Call (720) 794-0714.',
+    tagline: 'Dependable electrical repairs, panel service relocations, and remodel wiring for Englewood residential properties.',
+    introParagraphs: [
+      'Englewood\'s residential streets feature a mix of classic brick bungalows, mid-century homes, and modern infill construction near Swedish Medical Center and South Broadway. Qualified Electric specializes in updating Englewood\'s electrical infrastructure to meet the demands of modern living.',
+      'From upgrading undersized electrical service entrances to wiring complex kitchen renovations and relocating outdated breaker panels, our team delivers clean, code-compliant electrical work backed by transparent upfront pricing.',
+    ],
+    neighborhoods: ['Cherrelyn', 'Arapahoe Acres', 'Biscayne', 'Irontha', 'Cushing Park', 'South Broadway Corridor', 'Oxford Station area'],
+    zipCodes: ['80110', '80112', '80113'],
+    landmarks: ['Gothic Theatre', 'Englewood Civic Center', 'Swedish Medical Center area', 'Cushing Park'],
+    localUtility: 'Xcel Energy (Central South Metro)',
+    buildingDept: 'City of Englewood Building Division',
+    topServices: [
+      { title: 'Englewood Bungalow Rewiring', description: 'Whole-home rewiring, device upgrades, and grounded circuit extensions for classic Englewood brick homes.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Kitchen & Bath Remodel Wiring', description: 'Dedicated appliance circuits, island pop-up outlets, and undercabinet LED lighting for home remodels.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Panel Service Relocation & Heavy Up', description: 'Move breaker panels out of closets/bathrooms to code-approved exterior or utility room locations.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: 'Electrical Troubleshooting', description: 'Rapid diagnostic troubleshooting for flickering lights, tripped breakers, and ungrounded outlets.', linkSlug: 'electrical-troubleshooting-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Bungalow Rewiring & Main Breaker Upgrade', neighborhood: 'Cherrelyn', description: 'Complete electrical overhaul for a 1940s brick bungalow including 200A main service upgrade and AFCI breakers.', serviceType: 'Rewiring & Panel' },
+      { title: 'Kitchen Remodel Wiring & Dedicated Circuits', neighborhood: 'South Broadway area', description: 'Wired modern kitchen renovation with dedicated appliance circuits, island outlets, and undercabinet LEDs.', serviceType: 'Kitchen Remodel' },
+      { title: 'Panel Service Relocation', neighborhood: 'Arapahoe Acres', description: 'Relocated exterior main panel from bedroom wall to code-compliant outdoor utility location.', serviceType: 'Panel Relocation' },
+    ],
+    faqs: [
+      { q: 'Why do many Englewood homes need panel relocations?', a: 'Older Englewood homes often have panels located in unapproved areas (like closets or bathrooms) or low-clearance spots. During remodels or upgrades, code requires relocating panels to accessible locations.' },
+      { q: 'Can you fix ungrounded 2-prong outlets in Englewood homes?', a: 'Yes. We can convert 2-prong ungrounded outlets to modern 3-prong grounded outlets using GFCI protection or by running new equipment grounding conductors.' },
+      { q: 'Do Englewood kitchen remodels require dedicated circuits?', a: 'Yes. Current electrical code requires dedicated 20A circuits for small appliances, refrigerator, microwave, and dishwasher in Englewood home remodels.' },
+    ],
+    review: { name: 'David S.', location: 'Englewood, CO', rating: 5, text: 'Our older home had aluminum wiring that was a fire risk. Qualified Electric rewired the whole house with minimal wall damage and coordinated the drywall repairs. Excellent work from start to finish.' },
+    nearbyCities: [
+      { name: 'Littleton', slug: 'electrician-littleton-co' },
+      { name: 'Centennial', slug: 'electrician-centennial-co' },
+      { name: 'Denver', slug: 'residential-electrician-denver-co' },
+    ],
+  },
+  {
+    slug: 'electrician-castle-rock-co',
+    city: 'Castle Rock',
+    state: 'CO',
+    title: 'Licensed Electrician in Castle Rock, CO | Qualified Electric',
+    h1: 'Premier Electrician Services in Castle Rock, CO',
+    description: 'Premier electrician in Castle Rock, CO — standby generators, outbuilding subpanels, surge protection, and Level 2 EV charging.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Castle Rock, CO. Standby generators, EV chargers, subpanels, and surge protection. Call (720) 794-0714.',
+    tagline: 'High-capacity electrical installations, outbuilding wiring, and generator backup systems for Castle Rock homeowners.',
+    introParagraphs: [
+      'Castle Rock\'s scenic terrain and custom home developments in Castle Pines, The Meadows, and Founders Village require high-performance electrical systems capable of supporting large square footage, outbuildings, and high-elevation weather swings.',
+      'Qualified Electric delivers expert electrical installations tailored to Castle Rock properties — including heavy-duty standby generator backups, subpanel feeds for workshops or detached garages, and Level 2 EV charging stations built to code.',
+    ],
+    neighborhoods: ['Castle Pines', 'The Meadows', 'Founders Village', 'Terrain', 'Montaine', 'Plum Creek', 'Crystal Valley'],
+    zipCodes: ['80104', '80108', '80109'],
+    landmarks: ['Rock Park', 'Philip S. Miller Park', 'Outlets at Castle Rock', 'Castle Pines Golf Club'],
+    localUtility: 'CORE Electric Cooperative (Intermountain Rural Electric)',
+    buildingDept: 'Town of Castle Rock Development Services',
+    topServices: [
+      { title: 'Standby Generator Installation', description: 'Keep heat, well pumps, and refrigeration running automatically during winter storms in Douglas County.', linkSlug: 'generator-installation-denver-co' },
+      { title: 'Workshop & Outbuilding Subpanels', description: 'Run feeder lines and subpanels to detached shops, barns, RV hookups, and outbuildings.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Surge Protection for Thunderstorms', description: 'High-capacity surge suppressors to shield sensitive electronics from mountain thunderstorm strikes.', linkSlug: 'surge-protection-denver-co' },
+      { title: 'Level 2 Dual EV Charger Setup', description: 'High-speed 240V charging station installations for Tesla, Rivian, and all EV models.', linkSlug: 'ev-charger-installation-denver-co' },
+    ],
+    localProjects: [
+      { title: '24kW Standby Generator Installation', neighborhood: 'Castle Pines', description: 'Installed natural gas standby generator with automatic transfer switch to handle winter foothill blizzards.', serviceType: 'Standby Generator' },
+      { title: '100A Workshop Subpanel & 240V Outlets', neighborhood: 'Founders Village', description: 'Ran underground feeder conduit to detached garage workshop for heavy woodworking machinery.', serviceType: 'Subpanel & Wiring' },
+      { title: 'Level 2 Dual EV Charging Station', neighborhood: 'The Meadows', description: 'Installed 50A dedicated dual-head EV charging system for two electric vehicles.', serviceType: 'EV Charger' },
+    ],
+    faqs: [
+      { q: 'Who provides power in Castle Rock — Xcel or CORE Electric?', a: 'Most of Castle Rock is served by CORE Electric Cooperative. We work directly with CORE utility inspectors to ensure fast connection approvals.' },
+      { q: 'Can you wire detached shops or barns in Castle Rock?', a: 'Yes. We specialize in underground trenching, feeder conduit, and subpanel installations for detached shops, barns, and outbuildings.' },
+      { q: 'Do standby generators in Castle Rock require permits?', a: 'Yes, standby generator installations require permits from the Town of Castle Rock Development Services. We manage all permitting and inspection scheduling.' },
+    ],
+    review: { name: 'Marcus G.', location: 'Castle Rock, CO', rating: 5, text: 'Qualified Electric installed a 22kW Kohler standby generator in Castle Pines. Flawless execution and passed Town of Castle Rock inspection on the first try!' },
+    nearbyCities: [
+      { name: 'Parker', slug: 'electrician-parker-co' },
+      { name: 'Highlands Ranch', slug: 'electrician-highlands-ranch-co' },
+      { name: 'Littleton', slug: 'electrician-littleton-co' },
+    ],
+  },
+  {
+    slug: 'electrician-arvada-co',
+    city: 'Arvada',
+    state: 'CO',
+    title: 'Licensed Electrician in Arvada, CO | Qualified Electric',
+    h1: 'Dependable Electricians in Arvada, CO',
+    description: 'Trusted Arvada electrician services — 200A panel upgrades, 240V hot tub disconnects, basement electrical finishing, and ceiling fan installs.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Arvada, CO. Panel upgrades, hot tub wiring, basement electrical & ceiling fans. Call (720) 794-0714.',
+    tagline: 'Quality electrical repairs, hot tub disconnects, and service upgrades across historic and modern Arvada neighborhoods.',
+    introParagraphs: [
+      'Arvada spans historic charm in Olde Town Arvada to modern master-planned communities in Candelas and Leyden Rock. Qualified Electric provides full-service residential electrical solutions designed for Arvada\'s varied residential architecture.',
+      'Whether you need a 200A panel upgrade to support a new outdoor spa, basement rough-in electrical wiring, or quick repair for tripping breakers, our licensed team delivers fast service and code-compliant craftsmanship.',
+    ],
+    neighborhoods: ['Olde Town Arvada', 'Ralston Valley', 'Leyden Rock', 'Candelas', 'Whisper Creek', 'Lake Arbor', 'Arvada West'],
+    zipCodes: ['80002', '80003', '80004', '80005', '80007'],
+    landmarks: ['Olde Town Arvada Square', 'Apex Park & Recreation Center', 'Ralston Creek Trail', 'Arvada Center'],
+    localUtility: 'Xcel Energy (North West Division)',
+    buildingDept: 'City of Arvada Building Inspection Division',
+    topServices: [
+      { title: 'Arvada Panel Upgrades', description: 'Replace outdated breaker panels with 200A main service panels to support modern home additions and appliances.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: '240V Hot Tub & Spa Hookups', description: 'Install code-required 50A GFCI spa disconnect boxes and subterranean conduit feeds for hot tubs.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Basement Finish Electrical', description: 'Complete basement electrical rough-in, subpanels, recessed lighting, and media room circuits.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Ceiling Fan & Light Installation', description: 'Install fan-rated junction boxes, ceiling fans, and smart dimmers throughout Arvada homes.', linkSlug: 'ceiling-fan-installation-denver-co' },
+    ],
+    localProjects: [
+      { title: '240V Hot Tub Disconnect & Subpanel', neighborhood: 'Candelas', description: 'Installed 50A GFCI protected spa panel and subterranean conduit hookup for luxury outdoor hot tub.', serviceType: 'Hot Tub Wiring' },
+      { title: '200A Electrical Panel Upgrade', neighborhood: 'Olde Town Arvada', description: 'Replaced an old 100A Federal Pacific panel with a code-compliant 200A main service panel.', serviceType: 'Panel Upgrade' },
+      { title: 'Basement Subpanel & Recessed Lights', neighborhood: 'Leyden Rock', description: 'Wired finished basement with 60A subpanel, 18 recessed LED lights, and home theater circuits.', serviceType: 'Basement Wiring' },
+    ],
+    faqs: [
+      { q: 'Does installing a hot tub in Arvada require an electrical permit?', a: 'Yes. Hot tubs require a dedicated 240V GFCI-protected circuit and a emergency shutoff disconnect located within sight of the spa, per Arvada building code.' },
+      { q: 'Can you add a subpanel for a finished basement in Arvada?', a: 'Absolutely. A basement subpanel provides clean circuit distribution for lighting, outlets, wet bar appliances, and home theater gear.' },
+      { q: 'Are Federal Pacific panels common in older Arvada homes?', a: 'Yes, many homes built in Arvada between 1960 and 1985 contain Federal Pacific Stab-Lok panels, which we strongly recommend replacing due to fire risk.' },
+    ],
+    review: { name: 'Karen & Tom S.', location: 'Arvada, CO', rating: 5, text: 'Had Qualified Electric install a hot tub disconnect and upgrade our panel in Leyden Rock. Super clean work and very friendly crew!' },
+    nearbyCities: [
+      { name: 'Westminster', slug: 'electrician-westminster-co' },
+      { name: 'Lakewood', slug: 'electrician-lakewood-co' },
+      { name: 'Denver', slug: 'residential-electrician-denver-co' },
+    ],
+  },
+  {
+    slug: 'electrician-westminster-co',
+    city: 'Westminster',
+    state: 'CO',
+    title: 'Top Electrician in Westminster, CO | Qualified Electric',
+    h1: 'Expert Electrical Contractor in Westminster, CO',
+    description: 'Licensed electrician in Westminster, CO — smart home switches, EV charger installation, emergency breaker repairs, and lighting retrofits.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Westminster, CO. Smart lighting, EV chargers, breaker repairs, and panel upgrades. Call (720) 794-0714.',
+    tagline: 'Smart home lighting, EV charger installations, and rapid breaker repair across Westminster.',
+    introParagraphs: [
+      'Westminster\'s vibrant residential communities around Standley Lake, Bradburn Village, and Countryside feature a blend of classic single-family homes and contemporary tech-connected residences. Qualified Electric delivers forward-thinking electrical services tailored for Westminster homeowners.',
+      'From retrofitting smart switches and Lutron dimmers to troubleshooting sudden breaker trips and installing Level 2 EV chargers, our certified electricians focus on safety, efficiency, and flawless execution.',
+    ],
+    neighborhoods: ['Bradburn Village', 'Standley Lake', 'Hyland Village', 'Countryside', 'Savory Farm', 'Sunset Ridge', 'Westminster Promenade area'],
+    zipCodes: ['80020', '80021', '80030', '80031', '80234'],
+    landmarks: ['Standley Lake Regional Park', 'Westminster Bell Tower', 'The Orchard Town Center', 'Westminster Promenade'],
+    localUtility: 'Xcel Energy (North Metro Division)',
+    buildingDept: 'City of Westminster Building Division',
+    topServices: [
+      { title: 'Smart Switch & Dimmer Setup', description: 'Upgrade standard switches to Lutron Caséta or Wi-Fi smart dimmers for automated lighting control.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Level 2 EV Charging Stations', description: 'Fast 240V EV charger installations for Tesla, Hyundai, Ford, and all electric vehicle models.', linkSlug: 'ev-charger-installation-denver-co' },
+      { title: 'Emergency Breaker & Panel Repair', description: 'Diagnose and repair tripping main breakers, buzzing panels, and dead residential circuits.', linkSlug: 'electrical-troubleshooting-denver-co' },
+      { title: 'Whole-Home Surge Protection', description: 'Protect smart home electronics and appliances from power surges and grid fluctuations.', linkSlug: 'surge-protection-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Lutron Smart Dimmer & Automation', neighborhood: 'Bradburn Village', description: 'Converted 32 switches to Lutron Caséta smart dimmers with scene programming and mobile control.', serviceType: 'Smart Lighting' },
+      { title: 'Level 2 EV Wall Connector', neighborhood: 'Standley Lake', description: 'Installed dedicated 60A circuit for high-speed Level 2 home charging station in a 3-car garage.', serviceType: 'EV Charger' },
+      { title: 'Main Breaker Diagnostic & Repair', neighborhood: 'Hyland Village', description: 'Diagnosed intermittent main breaker tripping caused by degraded lug connection and replaced main breaker.', serviceType: 'Troubleshooting' },
+    ],
+    faqs: [
+      { q: 'Can you convert standard switches to smart switches in older Westminster homes?', a: 'Yes! Even if your switch boxes lack neutral wires, we install smart dimmers designed for legacy wiring or pull new neutral conductors where needed.' },
+      { q: 'What causes main breakers to buzz in Westminster homes?', a: 'A buzzing main breaker can indicate an overloaded circuit, loose bus bar connection, or internal breaker failure. It should be inspected immediately by a licensed electrician.' },
+      { q: 'Do EV charger installs require a panel upgrade in Westminster?', a: 'It depends on your panel\'s current load calculation. We measure your electrical load before installation to confirm if your existing panel has available capacity.' },
+    ],
+    review: { name: 'Brian K.', location: 'Westminster, CO', rating: 5, text: 'Fast diagnostic and repair on our main breaker that kept tripping in Westminster. Arrived within 2 hours of calling!' },
+    nearbyCities: [
+      { name: 'Broomfield', slug: 'electrician-broomfield-co' },
+      { name: 'Thornton', slug: 'electrician-thornton-co' },
+      { name: 'Arvada', slug: 'electrician-arvada-co' },
+    ],
+  },
+  {
+    slug: 'electrician-thornton-co',
+    city: 'Thornton',
+    state: 'CO',
+    title: 'Licensed Electrician in Thornton, CO | Qualified Electric',
+    h1: 'Reliable Residential Electricians in Thornton, CO',
+    description: 'Thornton electrician services — EV charger installation, ceiling fans, dedicated HVAC circuits, and panel capacity expansions.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Thornton, CO. EV chargers, ceiling fans, HVAC circuits & panel upgrades. Call (720) 794-0714.',
+    tagline: 'Fast dispatch, EV charger hookups, and dedicated circuit additions for Thornton families.',
+    introParagraphs: [
+      'Thornton is one of the Denver metro\'s fastest-growing residential hubs, featuring modern subdivisions in Fallbrook, Eastlake, and Signal Creek. Qualified Electric provides dependable electrical installation and repair services suited for Thornton\'s expanding family homes.',
+      'From installing high-capacity Level 2 EV charging stations to adding dedicated 240V circuits for new central air conditioning or heat pumps, our electricians deliver prompt, courteous service backed by code-compliant craftsmanship.',
+    ],
+    neighborhoods: ['Fallbrook', 'Eastlake', 'Thorncreek', 'Signal Creek', 'Hunter\'s Glen', 'Woodglen', 'Riverdale'],
+    zipCodes: ['80229', '80233', '80241', '80602'],
+    landmarks: ['Margaret W. Carpenter Recreation Center', 'Trail Winds Park', 'Eastlake N-Line Station'],
+    localUtility: 'United Power / Xcel Energy',
+    buildingDept: 'City of Thornton City Development Building Division',
+    topServices: [
+      { title: 'Thornton EV Charger Install', description: 'Install dedicated 240V garage circuits and EV wall chargers for all electric vehicle models.', linkSlug: 'ev-charger-installation-denver-co' },
+      { title: 'Ceiling Fan Suite Installation', description: 'Install fan-rated mounting boxes and ceiling fans with wall-control switches in bedrooms and living rooms.', linkSlug: 'ceiling-fan-installation-denver-co' },
+      { title: 'Dedicated HVAC & AC Circuits', description: 'Heavy-gauge dedicated branch circuits for central AC units, heat pumps, and tankless water heaters.', linkSlug: 'electrical-repair-denver-co' },
+      { title: 'Panel Capacity Expansion', description: 'Upgrade breaker boxes to 200A service to eliminate overloaded circuits in expanding Thornton homes.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Tesla Wall Connector Installation', neighborhood: 'Fallbrook', description: 'Installed Tesla Wall Connector with custom surface conduit routing in garage with 60A breaker.', serviceType: 'EV Charger' },
+      { title: 'Dedicated 50A Heat Pump & AC Circuit', neighborhood: 'Eastlake', description: 'Ran dedicated heavy-gauge circuit from panel to exterior condenser pad for high-efficiency HVAC install.', serviceType: 'Dedicated Circuit' },
+      { title: 'Ceiling Fan Suite & Support Boxes', neighborhood: 'Signal Creek', description: 'Installed 5 heavy-duty ceiling fan fan-rated junction boxes and high-efficiency ceiling fans.', serviceType: 'Ceiling Fans' },
+    ],
+    faqs: [
+      { q: 'Who provides power in Thornton — United Power or Xcel Energy?', a: 'Depending on your neighborhood location in Thornton, utility service is provided by either United Power or Xcel Energy. We comply with both utility service standards.' },
+      { q: 'Can I replace a light fixture with a ceiling fan in Thornton?', a: 'Only if the existing ceiling electrical box is fan-rated. Standard fixture boxes cannot safely hold fan weight. We install certified fan-rated support boxes on all fan installations.' },
+      { q: 'Are free estimates available for Thornton electrical projects?', a: 'Yes! We provide free upfront estimates before any electrical work begins.' },
+    ],
+    review: { name: 'Rachel W.', location: 'Thornton, CO', rating: 5, text: 'Qualified Electric installed 4 ceiling fans and a Tesla Wall Connector in our new Thornton home. Flawless work!' },
+    nearbyCities: [
+      { name: 'Westminster', slug: 'electrician-westminster-co' },
+      { name: 'Broomfield', slug: 'electrician-broomfield-co' },
+      { name: 'Aurora', slug: 'electrician-aurora-co' },
+    ],
+  },
+  {
+    slug: 'electrician-centennial-co',
+    city: 'Centennial',
+    state: 'CO',
+    title: 'Licensed Electrician in Centennial, CO | Qualified Electric',
+    h1: 'Top-Rated Electricians in Centennial, CO',
+    description: 'Premier electrician in Centennial, CO — kitchen recessed lighting, 200A panel upgrades, EV chargers, and safety audits.',
+    metaDescription: 'Qualified Electric provides top-rated electrician services in Centennial, CO. Recessed lighting, panel upgrades, EV chargers, and safety inspections. Call (720) 794-0714.',
+    tagline: 'High-end interior lighting, panel upgrades, and EV charger installations across Centennial communities.',
+    introParagraphs: [
+      'Centennial\'s master-planned neighborhoods adjacent to the Denver Tech Center — including Willow Creek, Walnut Hills, and Heritage Place — represent some of the metro area\'s finest family residences. Qualified Electric delivers premium residential electrical services tailored for Centennial homeowners.',
+      'From custom kitchen recessed LED lighting designs to upgrading 125A panels to 200A service for EV charging and modern appliances, our electricians combine technical precision with immaculate property care.',
+    ],
+    neighborhoods: ['Willow Creek', 'Walnut Hills', 'Foxfield border', 'Smoky Hill', 'Heritage Place', 'Piney Creek', 'Centennial Urban Center'],
+    zipCodes: ['80111', '80112', '80121', '80122', '80015'],
+    landmarks: ['Centennial Center Park', 'The Streets at SouthGlenn', 'DTC Tech Corridor border', 'Topgolf Centennial'],
+    localUtility: 'Xcel Energy / CORE Electric Cooperative',
+    buildingDept: 'City of Centennial Community Development Dept',
+    topServices: [
+      { title: 'Recessed Can & Undercabinet Lighting', description: 'Design and install ultra-thin LED recessed lighting, accent fixtures, and undercabinet LEDs in Centennial kitchens.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Centennial Panel Upgrades', description: 'Upgrade outdated 100A-125A breaker boxes to 200A service to meet high modern household power demands.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: 'Level 2 EV Charging Setup', description: 'Dedicated 240V EV charger installations with smart load management for Tesla and all EV brands.', linkSlug: 'ev-charger-installation-denver-co' },
+      { title: 'Pre-Purchase Safety Inspection', description: 'Detailed electrical system safety inspections for Centennial homebuyers and sellers.', linkSlug: 'electrical-inspection-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Recessed Can Lighting & Undercabinet LED', neighborhood: 'Willow Creek', description: 'Installed 12 ultra-thin LED recessed lights and custom undercabinet task lighting in a remodeled kitchen.', serviceType: 'Lighting' },
+      { title: '200A Electrical Panel Upgrade', neighborhood: 'Walnut Hills', description: 'Upgraded outdated 125A panel to 200A service to accommodate central AC and modern appliances.', serviceType: 'Panel Upgrade' },
+      { title: 'Dedicated NEMA 14-50 EV Plug', neighborhood: 'Heritage Place', description: 'Installed 50A heavy-duty industrial receptacle for plug-in EV charger in a 2-car garage.', serviceType: 'EV Charging' },
+    ],
+    faqs: [
+      { q: 'How long does a kitchen recessed lighting installation take in Centennial?', a: 'Most residential kitchen recessed lighting installations take 1 day, complete with clean drywall cuts and dimmer switch setup.' },
+      { q: 'Do Centennial panel upgrades require city inspections?', a: 'Yes. Panel upgrades in Centennial require a permit and inspection from the City of Centennial Community Development Department. We handle all paperwork.' },
+      { q: 'Can you install EV chargers in Centennial homes near DTC?', a: 'Yes! We install Level 2 chargers across all Centennial neighborhoods with clean conduit work and code compliance.' },
+    ],
+    review: { name: 'Amanda B.', location: 'Centennial, CO', rating: 5, text: 'Installed a ceiling fan in our bedroom where there was just a light before. They added the proper support box so it\'s rock solid — no wobble at all. Will definitely use them again.' },
+    nearbyCities: [
+      { name: 'Englewood', slug: 'electrician-englewood-co' },
+      { name: 'Highlands Ranch', slug: 'electrician-highlands-ranch-co' },
+      { name: 'Aurora', slug: 'electrician-aurora-co' },
+    ],
+  },
+  {
+    slug: 'electrician-parker-co',
+    city: 'Parker',
+    state: 'CO',
+    title: 'Licensed Electrician in Parker, CO | Qualified Electric',
+    h1: 'Experienced Local Electricians in Parker, CO',
+    description: 'Experienced Parker electrician services — barn/shop subpanels, standby generators, whole-home surge protection, and security lighting.',
+    metaDescription: 'Qualified Electric offers licensed electrician services in Parker, CO. Barn subpanels, standby generators, surge protection, and security lighting. Call (720) 794-0714.',
+    tagline: 'Powering acreage properties, outbuildings, and suburban family homes across Parker.',
+    introParagraphs: [
+      'Parker\'s landscape includes custom acreage homes in The Pinery and Canterberry Crossing as well as popular family subdivisions in Stonegate and Cottonwood. Qualified Electric brings specialized electrical solutions designed for Parker\'s unique residential property layouts.',
+      'From trenching underground feeds for barn/workshop subpanels to installing automatic standby generators and perimeter security floodlights, our master electricians handle complex acreage electrical projects with ease.',
+    ],
+    neighborhoods: ['Stonegate', 'Canterberry Crossing', 'The Pinery', 'Cottonwood', 'Stepping Stone', 'Idyllwilde', 'Parker Homestead'],
+    zipCodes: ['80134', '80138'],
+    landmarks: ['Parker Arts Center (PACE)', 'O\'Brien Park', 'Rueter-Hess Reservoir', 'Historic Downtown Parker'],
+    localUtility: 'CORE Electric Cooperative',
+    buildingDept: 'Town of Parker Building Department',
+    topServices: [
+      { title: 'Barn & Workshop Subpanels', description: 'Run underground feeder conduit and install subpanels for workshop equipment, welders, and barn lighting.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Standby Generator Backup', description: 'Automatic standby generators to maintain full home power during rural weather-related outages in Parker.', linkSlug: 'generator-installation-denver-co' },
+      { title: 'Whole-Home Surge Protection', description: 'Heavy-duty surge suppressors installed at the main panel to protect against high-plains voltage spikes.', linkSlug: 'surge-protection-denver-co' },
+      { title: 'Exterior & Security Lighting', description: 'Motion-activated LED floodlights, barn lighting, and landscape entrance lighting.', linkSlug: 'lighting-installation-denver-co' },
+    ],
+    localProjects: [
+      { title: '100A Barn Subpanel & Workshop Wiring', neighborhood: 'The Pinery', description: 'Installed 100A subpanel in detached barn/shop with overhead LED lighting and 240V welder outlets.', serviceType: 'Barn Subpanel' },
+      { title: '20kW Standby Generator', neighborhood: 'Canterberry Crossing', description: 'Installed automatic propane standby generator for acreage property prone to winter storm power outages.', serviceType: 'Standby Generator' },
+      { title: 'Exterior LED Flood & Security Lights', neighborhood: 'Stonegate', description: 'Installed motion-activated LED security floodlights around perimeter and illuminated entry pathways.', serviceType: 'Outdoor Lighting' },
+    ],
+    faqs: [
+      { q: 'Can you run power underground to a detached barn or garage in Parker?', a: 'Yes. We handle underground trenching, conduit installation, wire sizing, and subpanel mounting for detached structures.' },
+      { q: 'Is CORE Electric the utility provider in Parker?', a: 'Yes. CORE Electric Cooperative serves Parker. We coordinate directly with CORE service technicians for utility disconnects and meter approvals.' },
+      { q: 'What size generator do I need for an acreage home in Parker?', a: 'Most Parker acreage homes require a 20kW to 24kW generator to run well pumps, HVAC systems, refrigeration, and lighting seamlessly.' },
+    ],
+    review: { name: 'Greg & Linda M.', location: 'Parker, CO', rating: 5, text: 'We live in The Pinery and had constant power blinks during storms. Qualified Electric installed whole-house surge protection and a subpanel for our workshop. Top tier service!' },
+    nearbyCities: [
+      { name: 'Castle Rock', slug: 'electrician-castle-rock-co' },
+      { name: 'Centennial', slug: 'electrician-centennial-co' },
+      { name: 'Aurora', slug: 'electrician-aurora-co' },
+    ],
+  },
+  {
+    slug: 'electrician-highlands-ranch-co',
+    city: 'Highlands Ranch',
+    state: 'CO',
+    title: 'Licensed Electrician in Highlands Ranch, CO | Qualified Electric',
+    h1: 'Expert Electricians in Highlands Ranch, CO',
+    description: 'Expert Highlands Ranch electrician — dual Level 2 EV charging, kitchen electrical remodels, smart dimmers, and HOA-compliant exterior lighting.',
+    metaDescription: 'Qualified Electric provides expert electrician services in Highlands Ranch, CO. EV chargers, kitchen lighting, panel upgrades, and smart switches. Call (720) 794-0714.',
+    tagline: 'Clean, professional EV charging installations and modern electrical upgrades for Highlands Ranch HOA communities.',
+    introParagraphs: [
+      'Highlands Ranch master-planned communities — Westridge, Eastridge, Northridge, and Southridge — feature high-demand electrical systems. Qualified Electric provides white-glove residential electrical services tailored for Highlands Ranch residents.',
+      'Our electricians specialize in dual EV Level 2 charger setups, modern kitchen lighting remodels, and smart home automation, ensuring all work complies with both Douglas County building codes and Highlands Ranch Community Association (HRCA) standards.',
+    ],
+    neighborhoods: ['Westridge', 'Eastridge', 'Northridge', 'Southridge', 'Firelight', 'Indigo Hill', 'Kentley Hills'],
+    zipCodes: ['80126', '80129', '80130', '80163'],
+    landmarks: ['Highlands Ranch Mansion', 'Chatfield State Park East entrance', 'Backcountry Wilderness Area', 'Town Center'],
+    localUtility: 'Xcel Energy / CORE Electric',
+    buildingDept: 'Douglas County Building Division & HRCA Rules',
+    topServices: [
+      { title: 'Highlands Ranch EV Charger Install', description: 'Dedicated Level 2 charger installations for Tesla, Rivian, BMW, and all EV models in Highlands Ranch garages.', linkSlug: 'ev-charger-installation-denver-co' },
+      { title: 'Kitchen Electrical Remodeling', description: 'Island pendant lighting, undercabinet LEDs, GFCI backsplash outlets, and high-amp appliance circuits.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Whole-Home Smart Dimmers', description: 'Upgrade toggle switches to Lutron Caséta smart dimmers with smartphone and voice integration.', linkSlug: 'lighting-installation-denver-co' },
+      { title: 'Electrical System Safety Inspection', description: 'Comprehensive electrical audits for home buyers and HRCA property sellers.', linkSlug: 'electrical-inspection-denver-co' },
+    ],
+    localProjects: [
+      { title: 'Dual EV Level 2 Charging Station', neighborhood: 'Westridge', description: 'Installed 50A dedicated dual EV charging setup in 3-car garage with smart power sharing.', serviceType: 'EV Charging' },
+      { title: 'Kitchen Remodel & Island Pendants', neighborhood: 'Southridge', description: 'Wired modern kitchen renovation with island pendant lights, GFCI backsplash outlets, and undercabinet LEDs.', serviceType: 'Kitchen Remodel' },
+      { title: 'Whole-Home Smart Switch Retrofit', neighborhood: 'Northridge', description: 'Replaced 28 toggle switches with smart Wi-Fi dimmers integrated with smartphone controls.', serviceType: 'Smart Switches' },
+    ],
+    faqs: [
+      { q: 'Do outdoor lighting upgrades in Highlands Ranch require HRCA approval?', a: 'Exterior light fixture replacements that match existing aesthetics usually do not require HRCA submittal, but major exterior additions might. We ensure all exterior work complies with HRCA architectural guidelines.' },
+      { q: 'Can my Highlands Ranch panel support a Level 2 EV charger?', a: 'Most Highlands Ranch homes built after 1990 have 150A or 200A panels that can easily support a 40A or 50A EV charger circuit. We perform a quick load calculation during your estimate.' },
+      { q: 'How clean is the installation process in Highlands Ranch homes?', a: 'We use drop cloths, shoe covers, and dust-containment equipment to protect your floors and walls during every service call.' },
+    ],
+    review: { name: 'Danielle C.', location: 'Highlands Ranch, CO', rating: 5, text: 'Super clean installation of our EV charger in Southridge. They respected our home, wore shoe covers, and explained everything clearly.' },
+    nearbyCities: [
+      { name: 'Littleton', slug: 'electrician-littleton-co' },
+      { name: 'Centennial', slug: 'electrician-centennial-co' },
+      { name: 'Castle Rock', slug: 'electrician-castle-rock-co' },
+    ],
+  },
+  {
+    slug: 'electrician-broomfield-co',
+    city: 'Broomfield',
+    state: 'CO',
+    title: 'Licensed Electrician in Broomfield, CO | Qualified Electric',
+    h1: 'Professional Electricians in Broomfield, CO',
+    description: 'Licensed Broomfield electrician — 200A panel upgrades, basement electrical finishes, surge protection, and tech-corridor smart lighting.',
+    metaDescription: 'Qualified Electric provides licensed electrician services in Broomfield, CO. Panel upgrades, basement wiring, surge protection, and smart lighting. Call (720) 794-0714.',
+    tagline: 'High-capacity panel upgrades and modern electrical solutions across Broomfield tech-corridor neighborhoods.',
+    introParagraphs: [
+      'Broomfield\'s tech corridor and residential communities in Broadlands, Anthem, and McKay Landing feature modern homes with high electrical consumption. Qualified Electric provides top-tier electrical installation and repair services tailored for Broomfield homeowners.',
+      'From upgrading 100A panels to 200A service for finished basements and EV charging to mounting panel-level surge suppressors, our certified electricians deliver prompt, reliable craftsmanship.',
+    ],
+    neighborhoods: ['Broadlands', 'Anthem', 'McKay Landing', 'Broomfield Town Center', 'Red Leaf', 'Miramonte', 'Wildgrass'],
+    zipCodes: ['80020', '80021', '80023', '80038'],
+    landmarks: ['FlatIron Crossing', 'Broomfield County Commons Park', '1STBANK Center area', 'Paul Derda Recreation Center'],
+    localUtility: 'Xcel Energy (North Metro)',
+    buildingDept: 'City & County of Broomfield Building Division',
+    topServices: [
+      { title: 'Broomfield Panel Upgrades', description: 'Upgrade outdated panels to 200A service to handle modern home additions, EV charging, and finished basements.', linkSlug: 'electrical-panel-upgrade-denver-co' },
+      { title: 'Basement Finish Electrical Wiring', description: 'Complete electrical rough-in, subpanels, recessed lighting, and home theater circuits for finished basements.', linkSlug: 'residential-wiring-denver-co' },
+      { title: 'Panel Surge Protection', description: 'Panel-mounted surge suppressors to shield sensitive electronics and home tech from voltage spikes.', linkSlug: 'surge-protection-denver-co' },
+      { title: 'Interior Recessed LED Lighting', description: 'Energy-efficient recessed lighting installations for high ceilings and open floor plans.', linkSlug: 'lighting-installation-denver-co' },
+    ],
+    localProjects: [
+      { title: '200A Electrical Panel Upgrade', neighborhood: 'Broadlands', description: 'Replaced outdated 100A electrical panel with 200A service, adding capacity for home office and future EV charger.', serviceType: 'Panel Upgrade' },
+      { title: 'Finished Basement Electrical Wiring', neighborhood: 'Anthem', description: 'Wired 1,200 sq ft basement finish with subpanel, wet bar outlets, media room recessed lights, and smoke detectors.', serviceType: 'Basement Wiring' },
+      { title: 'Whole-House Surge Protector Install', neighborhood: 'McKay Landing', description: 'Mounted panel-level surge protector to shield sensitive electronics and high-end appliances.', serviceType: 'Surge Protection' },
+    ],
+    faqs: [
+      { q: 'Do basement electrical finishes in Broomfield require permits?', a: 'Yes. The City & County of Broomfield Building Division requires electrical permits and rough-in/final inspections for basement finishing.' },
+      { q: 'How long does a 200A panel upgrade take in Broomfield?', a: 'Most panel upgrades are completed in a single day, with power restored by late afternoon.' },
+      { q: 'Can you install surge protection at the panel in Broomfield homes?', a: 'Yes! We install Type 2 panel-mounted surge suppressors that protect every device in your home.' },
+    ],
+    review: { name: 'Steven P.', location: 'Broomfield, CO', rating: 5, text: 'Upgraded our electrical panel from 100 to 200 amps in Broadlands. The city inspection passed with zero issues. Highly recommend Qualified Electric!' },
+    nearbyCities: [
+      { name: 'Westminster', slug: 'electrician-westminster-co' },
+      { name: 'Arvada', slug: 'electrician-arvada-co' },
+      { name: 'Thornton', slug: 'electrician-thornton-co' },
+    ],
+  },
 ];
 
 export type Testimonial = {
@@ -507,17 +1019,131 @@ export type Testimonial = {
   location: string;
   rating: number;
   text: string;
+  badge?: string;
+  date?: string;
 };
 
 export const testimonials: Testimonial[] = [
-  { name: 'Sarah M.', location: 'Denver, CO', rating: 5, text: 'Qualified Electric upgraded our electrical panel from 100 to 200 amps. The team was professional, on time, and cleaned up everything afterward. Our home can finally handle all our modern appliances without tripping breakers.' },
-  { name: 'James T.', location: 'Aurora, CO', rating: 5, text: 'We had a flickering light issue that two other electricians couldn\'t figure out. Qualified Electric found the problem in 20 minutes — a loose neutral wire in the panel. Fixed it the same day. Highly recommend.' },
-  { name: 'Patricia L.', location: 'Lakewood, CO', rating: 5, text: 'They installed recessed lighting throughout our living room and kitchen. The work was clean, the lights look amazing, and they even patched the small drywall cuts. True professionals.' },
-  { name: 'Michael R.', location: 'Denver, CO', rating: 5, text: 'Got a Tesla Model Y and needed a home charger. Qualified Electric installed a Tesla Wall Connector in our garage in about 3 hours. They made sure our panel could handle it and everything works perfectly.' },
-  { name: 'Jennifer K.', location: 'Littleton, CO', rating: 5, text: 'After a power surge fried our TV and microwave, we called Qualified Electric to install whole-home surge protection. Fast, knowledgeable, and reasonably priced. Wish we\'d done it sooner.' },
-  { name: 'David S.', location: 'Englewood, CO', rating: 5, text: 'Our older home had aluminum wiring that was a fire risk. Qualified Electric rewired the whole house with minimal wall damage and coordinated the drywall repairs. Excellent work from start to finish.' },
-  { name: 'Amanda B.', location: 'Centennial, CO', rating: 5, text: 'Installed a ceiling fan in our bedroom where there was just a light before. They added the proper support box so it\'s rock solid — no wobble at all. Will definitely use them again.' },
-  { name: 'Robert H.', location: 'Denver, CO', rating: 5, text: 'Had them do an electrical inspection before buying our home. They found a dangerous wiring issue in the basement that the general inspector missed. Saved us from a serious problem. So grateful.' },
+  {
+    name: 'Amanda Hart',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Very knowledgeable, on time, trustworthy and did an amazing job hanging up all our lights and bedroom fan! I would recommend Qualified Electric for any electric job moving forward!',
+    badge: 'Local Guide · Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Deborah Vela',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Colton and his team wired our very large home and did a great job. We were impressed with his experience, knowledge and professionalism as well as completing the job in a timely fashion. We would recommend his services.',
+    badge: 'Local Guide · Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Barb Edwards',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Colton was a pleasure to work with. He was able to answer all of my questions. He showed up when he said he was going to be here. He had some very good suggestions.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Austin Chipman',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Randy and Colton are awesome! Did a great job upgrading some lights in my house and reasonably priced.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Joey Olson',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Randy did a great job with my electrical needs! Clean, efficient and on time! I highly recommend.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Robert Berglund',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Great company! Colton and Randy were knowledgeable and professional. Would definitely recommend them to anyone who asked.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Ryan Edwards',
+    location: 'Denver, CO',
+    rating: 5,
+    text: "I've worked with Qualified Electric on several projects and they're always professional. They're a great team to work with.",
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Anthony SanFilippo',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Qualified Electric is very professional and I was very happy with the work! I would recommend them to anyone looking for an electrician!!',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Dylan Stanton',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Great guy to work with has a great attitude and knows what he is doing great pricing highly recommend.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Marsh Gillespie',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Veteran owned and operated great service! Very reasonable and on time! The price was very affordable as well!!!',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Colin Knox',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Detail oriented. Great work would highly recommend these professionals.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Alex Panger',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Randy was timely, and very professional.',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Brandon Kemper',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Great work and great people!!',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Terri Lentz',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Prompt, professional, and reliable electrical service for our home. Highly recommended team!',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
+  {
+    name: 'Adam Kastning',
+    location: 'Denver, CO',
+    rating: 5,
+    text: 'Top quality electrical work, great pricing, and excellent communication throughout the job!',
+    badge: 'Verified Google Review',
+    date: '1 year ago',
+  },
 ];
 
 export type FAQ = {

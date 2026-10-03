@@ -50,15 +50,38 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-display font-bold text-white mb-5 text-base">Service Areas</h3>
+            <h3 className="font-display font-bold text-white mb-5 text-base">Cost Guides & Advice</h3>
             <ul className="space-y-2.5">
-              {serviceAreas.slice(0, 8).map((a) => (
-                <li key={a.slug}>
-                  <Link to={`/${a.slug}`} className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
-                    Electrician in {a.city}, {a.state}
-                  </Link>
-                </li>
-              ))}
+              <li>
+                <Link to="/blog/electrician-cost-denver-co" className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
+                  Electrician Cost in Denver
+                </Link>
+              </li>
+              <li>
+                <Link to="/blog/when-to-upgrade-electrical-panel" className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
+                  When to Upgrade Panel
+                </Link>
+              </li>
+              <li>
+                <Link to="/blog/ev-charger-installation-cost-colorado" className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
+                  EV Charger Install Costs
+                </Link>
+              </li>
+              <li>
+                <Link to="/blog/signs-home-needs-rewiring" className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
+                  3 Signs Home Needs Rewiring
+                </Link>
+              </li>
+              <li>
+                <Link to="/blog/how-to-choose-electrician-denver" className="text-sm text-ink-400 hover:text-electric-400 transition-colors duration-200">
+                  Choosing a Licensed Electrician
+                </Link>
+              </li>
+              <li>
+                <Link to="/blog" className="text-sm font-bold text-electric-400 hover:underline">
+                  View All Guides &rarr;
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -85,6 +108,14 @@ export default function Footer() {
             <a href={`tel:${PHONE_TEL}`} className="btn-primary mt-5 w-full">
               <Phone className="w-4 h-4" />
               Call Now
+            </a>
+            <a
+              href={MAPS_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 w-full py-2.5 px-4 rounded-xl bg-ink-800 hover:bg-ink-700 text-electric-400 font-bold text-xs transition-colors border border-ink-700 cursor-pointer flex items-center justify-center gap-2"
+            >
+              <span>★ Leave a Google Review</span>
             </a>
           </div>
         </div>

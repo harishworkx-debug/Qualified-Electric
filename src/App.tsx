@@ -5,6 +5,8 @@ import ServicePage from '@/pages/ServicePage';
 import LocationPage from '@/pages/LocationPage';
 import AboutPage from '@/pages/AboutPage';
 import ContactPage from '@/pages/ContactPage';
+import BlogListingPage from '@/pages/BlogListingPage';
+import BlogPostPage from '@/pages/BlogPostPage';
 import { services, serviceAreas } from '@/data/site-data';
 
 export default function App() {
@@ -14,6 +16,8 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
+        <Route path="/blog" element={<BlogListingPage />} />
+        <Route path="/blog/:slug" element={<BlogPostPage />} />
         {services.map((service) => (
           <Route key={service.slug} path={`/${service.slug}`} element={<ServicePage slug={service.slug} />} />
         ))}
