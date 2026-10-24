@@ -9,6 +9,7 @@ export default function AboutPage() {
       <SEO 
         title="About Us | Qualified Electric" 
         description="Learn more about Qualified Electric, your trusted residential electrician serving Denver, CO. Quality electrical work performed with care and expertise." 
+        canonical="/about"
       />
       
       <div className="pt-24 lg:pt-32 pb-20 lg:pb-28 bg-ink-950">

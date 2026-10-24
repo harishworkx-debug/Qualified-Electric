@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://qualifiedelectricdenver.com/sitemap.xml
+Sitemap: https://www.qualifiedelectriccolorado.com/sitemap.xml

@@ -102,7 +102,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-sm text-ink-400">
                 <Clock className="w-4 h-4 mt-0.5 text-electric-500" />
-                <span>Mon - Sun: 7:00 AM - 9:00 PM</span>
+                <span>Daily: 7:00 AM - 9:00 PM | 24/7 Urgent Dispatch</span>
               </li>
             </ul>
             <a href={`tel:${PHONE_TEL}`} className="btn-primary mt-5 w-full">

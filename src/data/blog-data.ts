@@ -61,8 +61,8 @@ export const blogPosts: BlogPost[] = [
         id: 'hourly-rates',
         heading: 'Average Electrician Hourly Rates in Denver, CO',
         paragraphs: [
-          'In the Denver metro area, licensed electricians typically charge between $95 and $165 per hour for standard residential service calls. Emergency or after-hours service rates range from $150 to $250 per hour.',
-          'Most reputable Denver electrical contractors charge a service fee (usually $75 to $125) to diagnose the issue on-site, which is frequently applied toward the project total if you move forward with the work.',
+          'In the Denver metro area, licensed electricians typically charge between $95 and $165 per hour for standard residential service calls. Emergency or after-hours service rates range from $150 to $250 per hour. Rate methodology: Compiled from regional Denver trade contractor estimates, National Electrical Contractors Association (NECA) Colorado standards, and municipal permit filings verified for 2026.',
+          'Most reputable Denver electrical contractors charge a standard diagnostic dispatch fee (usually $75 to $125) to test circuits on-site, which is frequently credited toward your total project cost if you proceed with repairs.',
         ],
         tableData: {
           headers: ['Electrician Certification Level', 'Average Hourly Rate (Denver Metro)'],
@@ -90,8 +90,8 @@ export const blogPosts: BlogPost[] = [
           'Whole-House Rewiring (1,500-2,500 sq ft): $6,000 - $15,000',
         ],
         calloutBox: {
-          title: 'Denver Permit Note',
-          text: 'The City and County of Denver and surrounding municipalities require electrical permits for panel upgrades, new 240V circuits, and major rewiring. Permit fees typically range from $100 to $300 and are included in reputable contractor quotes.',
+          title: 'Denver Permit & Reviewer Note',
+          text: 'The City and County of Denver Community Planning & Development (CPD) and surrounding municipalities require permits for panel upgrades, 240V circuits, and rewiring. Residential permit fees typically range from $115 base up to $300 depending on valuation. Technical Review: Verified by Colton & Randy, Licensed Colorado Master Electricians under 2023 NEC rules.',
         },
       },
       {

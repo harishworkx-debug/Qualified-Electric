@@ -9,7 +9,7 @@ type SEOProps = {
   schema?: object | object[];
 };
 
-const SITE_URL = 'https://qualifiedelectricdenver.com';
+const SITE_URL = 'https://www.qualifiedelectriccolorado.com';
 
 export default function SEO({ title, description, canonical, ogImage, schema }: SEOProps) {
   useEffect(() => {
