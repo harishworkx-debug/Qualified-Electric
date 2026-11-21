@@ -99,8 +99,8 @@ export const localBusinessSchema = {
   },
   areaServed: serviceAreas.map((area) => ({
     '@type': 'City',
-    name: area.name,
-    state: 'CO',
+    name: area.city,
+    state: area.state || 'CO',
   })),
   openingHoursSpecification: [
     {
@@ -142,8 +142,8 @@ export const serviceSchema = (serviceName: string, description: string, slug: st
   },
   areaServed: serviceAreas.map((area) => ({
     '@type': 'City',
-    name: area.name,
-    state: 'CO',
+    name: area.city,
+    state: area.state || 'CO',
   })),
   url: `${SITE_URL}/${slug}`,
 });
